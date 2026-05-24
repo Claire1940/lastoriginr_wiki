@@ -45,6 +45,7 @@ interface HomePageClientProps {
 
 export default function HomePageClient({
   latestArticles,
+  moduleLinkMap,
   locale,
 }: HomePageClientProps) {
   const t = useMessages() as any;
@@ -58,6 +59,9 @@ export default function HomePageClient({
   const videoWatchUrl = `https://www.youtube.com/watch?v=${videoId}`;
   const heroImageUrl = new URL("/images/hero.webp", siteUrl).toString();
   const mobileBannerAd = getPreferredMobileBannerSelection();
+  const moduleHeadingClass = "text-4xl md:text-5xl font-bold mb-4";
+  const moduleHeadingClassCodes = "text-3xl md:text-5xl font-bold mb-3 md:mb-4";
+  const moduleLinkClass = "inline-flex items-center gap-2 hover:text-[hsl(var(--nav-theme-light))] transition-colors";
 
   const sectionIds = [
     "codes",
@@ -145,6 +149,22 @@ export default function HomePageClient({
         url: videoWatchUrl,
       },
     ],
+  };
+
+  const renderModuleHeading = (moduleKey: string, title: string, className: string) => {
+    const moduleLink = moduleLinkMap[moduleKey];
+    if (!moduleLink?.url) {
+      return <h2 className={className}>{title}</h2>;
+    }
+
+    return (
+      <h2 className={className}>
+        <Link href={`/${locale}${moduleLink.url}`} className={moduleLinkClass}>
+          <span>{title}</span>
+          <ExternalLink className="w-5 h-5" />
+        </Link>
+      </h2>
+    );
   };
 
   return (
@@ -366,7 +386,7 @@ export default function HomePageClient({
       <section id="codes" className="scroll-mt-24 px-4 py-14 md:py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-8 md:mb-12 scroll-reveal">
-            <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">{t.modules.lastOriginRCodes.title}</h2>
+            {renderModuleHeading("lastOriginRCodes", t.modules.lastOriginRCodes.title, moduleHeadingClassCodes)}
             <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto">{t.modules.lastOriginRCodes.intro}</p>
           </div>
 
@@ -395,7 +415,7 @@ export default function HomePageClient({
       <section id="beginner-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lastOriginRBeginnerGuide.title}</h2>
+            {renderModuleHeading("lastOriginRBeginnerGuide", t.modules.lastOriginRBeginnerGuide.title, moduleHeadingClass)}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lastOriginRBeginnerGuide.intro}</p>
           </div>
           <div className="scroll-reveal space-y-3 md:space-y-4">
@@ -421,7 +441,7 @@ export default function HomePageClient({
       <section id="tier-list" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lastOriginRTierList.title}</h2>
+            {renderModuleHeading("lastOriginRTierList", t.modules.lastOriginRTierList.title, moduleHeadingClass)}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lastOriginRTierList.intro}</p>
           </div>
           <div className="scroll-reveal space-y-4">
@@ -450,7 +470,7 @@ export default function HomePageClient({
       <section id="reroll-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lastOriginRRerollGuide.title}</h2>
+            {renderModuleHeading("lastOriginRRerollGuide", t.modules.lastOriginRRerollGuide.title, moduleHeadingClass)}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lastOriginRRerollGuide.intro}</p>
           </div>
           <div className="scroll-reveal space-y-4">
@@ -477,7 +497,7 @@ export default function HomePageClient({
       <section id="team-builds" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lastOriginRTeamBuilds.title}</h2>
+            {renderModuleHeading("lastOriginRTeamBuilds", t.modules.lastOriginRTeamBuilds.title, moduleHeadingClass)}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lastOriginRTeamBuilds.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -507,7 +527,7 @@ export default function HomePageClient({
       <section id="combat-formation-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lastOriginRCombatFormationGuide.title}</h2>
+            {renderModuleHeading("lastOriginRCombatFormationGuide", t.modules.lastOriginRCombatFormationGuide.title, moduleHeadingClass)}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lastOriginRCombatFormationGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -530,7 +550,7 @@ export default function HomePageClient({
       <section id="characters-units" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lastOriginRCharactersAndUnits.title}</h2>
+            {renderModuleHeading("lastOriginRCharactersAndUnits", t.modules.lastOriginRCharactersAndUnits.title, moduleHeadingClass)}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lastOriginRCharactersAndUnits.intro}</p>
           </div>
 
@@ -560,7 +580,7 @@ export default function HomePageClient({
       <section id="events-update-log" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lastOriginREventsAndUpdateLog.title}</h2>
+            {renderModuleHeading("lastOriginREventsAndUpdateLog", t.modules.lastOriginREventsAndUpdateLog.title, moduleHeadingClass)}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lastOriginREventsAndUpdateLog.intro}</p>
           </div>
 
