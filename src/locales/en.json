@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Post-Apocalyptic Tactical RPG",
+    "title": "Last Origin R Wiki",
+    "description": "Command bioroid squads in a post-apocalyptic strategy RPG with 9-grid battles, squad building, story stages, and support for PC, Android, and iOS.",
+    "getFreeCodesCTA": "Play Last Origin R on VFUN (PC)",
+    "playOnSteamCTA": "Get Last Origin R on Google Play",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "50K+",
+        "label": "Google Play Downloads"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "PC / Android / iOS",
+        "label": "Platforms"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "6+",
+        "label": "Languages"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "May 21, 2026",
+        "label": "Global Launch"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Command Last Origin R Squads?",
+    "description": "Join the official Last Origin R Discord and jump into the global launch on VFUN, Google Play, or the App Store.",
+    "joinCommunity": "Join Last Origin R Discord",
+    "joinGame": "Play Last Origin R on VFUN"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Last Origin R Wiki",
+    "description": "Your fan-made Last Origin R resource hub for squad builds, tactical guides, reroll routes, and update tracking.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "YouTube Gameplay",
+    "steamStore": "Google Play",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Last Origin R Wiki. Not affiliated with the publishers or developers of Last Origin R.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

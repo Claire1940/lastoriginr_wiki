@@ -1,11 +1,11 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Last Origin R Wiki - Codes, Tier List & Builds",
+  "short_name": "Last Origin R",
+  "description": "Last Origin R Wiki for codes, tier lists, reroll paths, squad builds, bioroid guides, events, and download links for PC, Android, and iOS.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#11c9c3",
   "background_color": "#0a0a0a",
   "icons": [
     {
