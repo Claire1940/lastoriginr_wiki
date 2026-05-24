@@ -1,46 +1,73 @@
 {
   "categories": [
     {
-      "category": "Guides",
+      "category": "guide",
       "keywords": [
-        "lucid blocks guide"
+        "last origin r beginner guide",
+        "last origin r how to play",
+        "last origin r gameplay guide",
+        "last origin r global guide",
+        "last origin r english guide",
+        "last origin r progression guide",
+        "last origin r farming guide",
+        "last origin r early game guide"
       ]
     },
     {
-      "category": "Crafting",
+      "category": "tier",
       "keywords": [
-        "lucid blocks crafting recipes",
-        "lucid blocks apotheosis"
+        "last origin r tier list",
+        "last origin r character tier list",
+        "last origin r reroll tier list",
+        "last origin r best characters",
+        "last origin r strongest units",
+        "last origin r best team"
       ]
     },
     {
-      "category": "Items",
+      "category": "download",
       "keywords": [
-        "lucid blocks faith wand",
-        "lucid blocks bee glider",
-        "lucid blocks chest",
-        "lucid blocks osmium"
+        "last origin r download",
+        "last origin r apk",
+        "last origin r pc",
+        "last origin r android",
+        "last origin r ios",
+        "last origin r steam",
+        "last origin r dmm",
+        "last origin r version"
       ]
     },
     {
-      "category": "Biomes",
+      "category": "release",
       "keywords": [
-        "lucid blocks tiamana leyline"
+        "last origin r global release date",
+        "last origin r release date",
+        "last origin r global release",
+        "last origin r preregistration",
+        "last origin r launch rewards"
       ]
     },
     {
-      "category": "Building",
+      "category": "characters",
       "keywords": [
-        "lucid blocks qualia"
+        "last origin r characters",
+        "last origin r units",
+        "last origin r skins",
+        "last origin r rena",
+        "last origin r mighty r",
+        "last origin r unit list",
+        "last origin r character list"
       ]
     },
     {
-      "category": "Support",
+      "category": "systems",
       "keywords": [
-        "lucid blocks steam deck",
-        "lucid blocks full screen",
-        "lucid blocks multiplayer",
-        "lucid blocks android"
+        "last origin r gacha",
+        "last origin r combat",
+        "last origin r formation",
+        "last origin r research",
+        "last origin r l2d viewer",
+        "last origin r viewer"
       ]
     }
   ]

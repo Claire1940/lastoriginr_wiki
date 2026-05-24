@@ -1,0 +1,183 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "last origin r global guide: Best Starter Teams & Farming Tips",
+  description: "Master last origin r with our 2026 global guide. Learn the best Mongoose starter team, Tuna Can spending priorities, and essential stat allocation rules.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Last+Origin+R+Global+Guide",
+  date: "2026-05-24",
+  author: "last origin r Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **last origin r global guide**: Focus on the **Mongoose Team** as your primary F2P starter squad to clear early-to-mid game content.
+- **Resource Priority**: Spend your **Tuna Cans** exclusively on squad deployment slots and character storage rather than gacha skins.
+- **Stat Thresholds**: Aim for **100% Critical Rate** on damage dealers and **300% Accuracy** for late-game consistency.
+- **AFK Farming**: Unlock auto-battle early to farm resources offline, prioritizing stages **3-8** and **5-8** for core units.
+</Callout>
+
+<Section icon={Map} title="Core Gameplay and last origin r global guide Overview">
+
+Last Origin R is a sophisticated turn-based strategy RPG set in a haunting post-apocalyptic world. As a Commander, you lead squads of Bioroids and AGS units to reclaim Earth from the Iron Parasites. The game distinguishes itself with a low-spend, casual-friendly model where almost every unit is farmable through gameplay rather than strict gacha mechanics. Understanding the core loop—clearing main stages, setting up AFK farms, and optimizing team synergies—is the foundation of this **last origin r global guide**.
+
+<CardGrid cols={3}>
+  <Card title="Strategy RPG">
+    - **Grid-based combat**
+    - Turn-based tactical depth
+    - 5 units per squad
+  </Card>
+  <Card title="F2P Friendly">
+    - **Farmable SS units**
+    - No mandatory unit gacha
+    - Generous resource income
+  </Card>
+  <Card title="AFK Progression">
+    - **Offline farming**
+    - Resource recovery
+    - Low maintenance play
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Commander's Insight">
+While the game features high-rarity SS units, many B and A-rank units are essential for specific synergies. Do not ignore lower-rarity characters during your initial progression.
+</Callout>
+
+Before diving into combat, beginners should understand the two primary playstyles:
+1. **Auto/Semi-Auto**: Ideal for resource farming and early clearing. The AI manages skill usage based on preset priorities.
+2. **Manual**: Necessary for endgame "Eternal War" content where targeting specific enemy debuffers is the difference between victory and defeat.
+
+</Section>
+
+<Section icon={Swords} title="The Mongoose Team: Best Starter Squad">
+
+The **Mongoose Team** is widely considered the gold standard for new players. This squad is easily obtainable through the Tactical Training Room missions and provides a balanced mix of damage, evasion, and physical defense. Unlike other specialized teams, the Mongoose squad can carry you through the entirety of the main story chapters with minimal investment.
+
+| Unit | Role | Primary Stat | Acquisition |
+| :--- | :--- | :--- | :--- |
+| **T-14 Miho** | Main DPS | ATK / Crit | Tactical Training / Stage 3-8 |
+| **T-60 Bulgasari** | Sub-DPS | ATK / Crit | Tactical Training Missions |
+| **AS-12 Steel Draco** | DEF Tank | HP / DEF | Tactical Training Missions |
+| **P-24 Pinto** | EVA Tank | Evasion | Tactical Training Missions |
+| **HongRyeon** | Support/DPS | ATK | Tactical Training Missions |
+
+<Callout type="success" title="Mongoose Synergy">
+T-14 Miho provides powerful follow-up attacks when her teammates act. Ensure her **Skill 2** is prioritized in the auto-combat settings to maximize her burst potential.
+</Callout>
+
+### Farming Locations for Beginners
+To "Link" your units (increasing their stats without leveling), you need duplicate copies. Focus your energy on these specific stages:
+- **Stage 3-8**: Farm extra copies of **T-14 Miho** to reach 500% Link bonus.
+- **Stage 5-8**: Farm for **X05**, a premier DPS unit that transitions you into the mid-game.
+- **Stage 5-8EX**: This is where you will eventually farm high-tier SS equipment and chips.
+
+</Section>
+
+<Section icon={Target} title="Stat Allocation and Character Building Rules">
+
+Stat management is where most new players fail. In **last origin r**, dumping points randomly into stats will lead to "wiping" on stages even if your level is high. Each role has a specific mathematical threshold they must meet to be effective in 2026 meta content.
+
+| Stat Type | Requirement | Priority | Reasoning |
+| :--- | :--- | :--- | :--- |
+| **Critical Rate** | **100%** | **Highest** | Essential for triggering DPS passives and maximizing damage. |
+| **Accuracy** | **300% - 350%** | High | Prevents "Miss" results against high-evasion late-game enemies. |
+| **Evasion** | **Max (All Points)** | High | Evasion tanks die instantly if they take a single hit. |
+| **Armor Pen** | **90% - 100%** | Medium | Necessary to bypass high-defense bosses in Chapter 7+. |
+
+<Callout type="warning" title="Accuracy Warning">
+If your damage dealer has 100% Crit but only 150% Accuracy, you will fail to hit scouts and wasps in later stages. Always balance Accuracy before dumping the rest into ATK.
+</Callout>
+
+**Stat Point Distribution Guide:**
+- **Damage Dealers (Miho/Bulgasari)**: Calculate your passive buffs first. If a passive gives 20% Crit, you only need 80% from points/chips. Once at 100% Crit and 250%+ Accuracy, put all remaining points into **ATK**.
+- **Defense Tanks (Steel Draco)**: Split points between **HP and DEF**. In the early game, raw HP is often more valuable than DEF as many enemies have armor-piercing capabilities.
+- **Evasion Tanks (Pinto)**: Put **100% of points into Evasion**. Do not touch HP or DEF; their survival depends entirely on not being touched.
+
+</Section>
+
+<Section icon={Trophy} title="Resource Management: Tuna Cans & Black Books">
+
+**Tuna Cans** are the premium currency in last origin r. While it is tempting to spend them on the high-quality character skins, doing so early will severely hamper your account's efficiency. Account utility is the key to long-term success.
+
+<Checklist
+  id="spending-priority"
+  title="Tuna Can Spending Priority:"
+  items={[
+    "Expanded Squad Deployment Bays (Unlock all 5)",
+    "Character Storage Slots (At least 200-300)",
+    "Equipment Storage Slots (At least 200)",
+    "Resource Exploration Slots",
+    "Skins (Only after utility is maxed)"
+  ]}
+/>
+
+<Callout type="info" title="Black Book Usage">
+Black Books are rare items that instantly max a unit's level and skills. **Do not waste these on B-rank units.** Save them for meta-defining SS units like **No.85 Invincible Dragon** or **No.2 Lavata**.
+</Callout>
+
+### Efficient Resource Usage
+| Resource | Primary Use | Avoid Doing |
+| :--- | :--- | :--- |
+| **Components** | Unit Construction / Repair | Heavy Construction (Early Game) |
+| **Nutrients** | Unit Construction / Repair | Spamming high-cost SS recipes |
+| **Power** | Equipment Enhancement | Enhancing B-rank gear |
+| **Blue Cores** | Linking B/A/S units | Being stingy; use them freely |
+| **Gold Cores** | Linking SS units | Using them on farmable S units |
+
+</Section>
+
+<Section icon={Sparkles} title="Step-by-Step Progression Guide">
+
+Follow these steps to transition from a new recruit to an efficient farmer within your first week of play.
+
+<Steps>
+  <Step num="1" title="Clear Tactical Training">
+    Complete all missions in the Tactical Training Room. This provides the full **Mongoose Team**, level-up materials, and your first set of SS equipment.
+  </Step>
+  <Step num="2" title="Push Main Story to 3-8">
+    Use the Mongoose Team to reach stage 3-8. Stop here and set up an auto-farm to get duplicates of **T-14 Miho**. Link her to 500% to boost her base stats significantly.
+  </Step>
+  <Step num="3" title="Optimize Gear with Beta Chips">
+    Upgrade the free **Beta Chips** (ATK, Crit, EVA) given at the start of the game to **+10**. These are foundational items that remain useful even in the endgame.
+  </Step>
+  <Step num="4" title="Unlock All Deployment Squads">
+    Use your initial Tuna Cans to unlock 5 squads. Send 4 squads on **Resource Exploration** missions 24/7 to ensure you never run out of components or nutrients.
+  </Step>
+  <Step num="5" title="Push to Chapter 5-8">
+    With your linked Miho and +10 gear, push to Chapter 5. Farm stage 5-8 for **X05** and begin building your second specialized team for harder content.
+  </Step>
+</Steps>
+
+<Callout type="tip" title="Offline Farming">
+Once you 4-star a stage, you can use the offline farming feature. This saves your phone's battery and allows you to gain resources while the app is closed.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="FAQ: Common last origin r Questions">
+
+<FAQ items={[
+  {
+    question: "Is it worth pulling on the character construction banners?",
+    answer: "Generally, no. Most units in last origin r are farmable in the main story or event stages. Save your resources for equipment enhancement and squad expansions."
+  },
+  {
+    question: "Why does my team keep failing on Auto mode?",
+    answer: "Check your Accuracy and Critical Rate. If your DPS units are missing their shots (Accuracy < 200%) or failing to crit, the battle will drag on, and your tank will eventually collapse."
+  },
+  {
+    question: "How do I get more Tuna Cans for free?",
+    answer: "You can earn Tuna Cans by 4-starring story stages, completing monthly Battle Passes (free tier), and hitting specific account achievements."
+  },
+  {
+    question: "Should I dismantle B and A rank units?",
+    answer: "Keep one copy of every unit to fill your Encyclopedia for rewards. After that, you can dismantle duplicates for resources, except for units you are currently 'linking'."
+  }
+]} />
+
+</Section>

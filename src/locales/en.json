@@ -10,7 +10,14 @@
       "twitterDescription": "Last Origin R Wiki with code status, tactical squad guides, reroll tips, and update tracking."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "tier": "Tier",
+    "download": "Download",
+    "release": "Release",
+    "characters": "Characters",
+    "systems": "Systems"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -533,125 +540,125 @@
     "updateNote": "Homepage modules are refreshed for global launch and version changes."
   },
   "pages": {
-    "guides": {
-      "title": "Last Origin R Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Last Origin R Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Last Origin R guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "guide": {
+      "title": "Last Origin R Guide",
+      "description": "Step-by-step progression routes, early resource priorities, and daily routines for new and returning commanders.",
+      "metaTitle": "Last Origin R Guide - Beginner to Mid-Game Progression",
+      "metaDescription": "Use this Last Origin R guide hub for onboarding, formation basics, farming flow, and practical progression checkpoints.",
+      "categoryLabel": "CORE GUIDE",
+      "whatIs": "What is the Guide category?",
+      "whatIsDescription": "Guide articles explain how Last Origin R progression works in practice, including onboarding flow, account setup, daily loops, and efficient upgrade timing.",
+      "why": "Why read these guides?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Start With a Stable Route",
+        "step1Description": "Follow a clear early-game order for campaign stages, upgrades, and core account milestones.",
+        "step2Title": "Avoid Resource Waste",
+        "step2Description": "Learn where to spend limited materials first so your main squad scales without bottlenecks.",
+        "step3Title": "Build Repeatable Routines",
+        "step3Description": "Use consistent daily and weekly loops to keep progression steady between major updates."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Guide Articles"
     },
-    "crafting": {
-      "title": "Last Origin R Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Last Origin R Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Last Origin R Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "tier": {
+      "title": "Last Origin R Tier",
+      "description": "Role-based unit priority snapshots for reroll plans, campaign pushing, and stable team upgrades.",
+      "metaTitle": "Last Origin R Tier - Unit Priority and Team Value",
+      "metaDescription": "Check Last Origin R tier resources for reroll targets, role coverage, and practical upgrade priorities by content stage.",
+      "categoryLabel": "TIER PRIORITY",
+      "whatIs": "What is the Tier category?",
+      "whatIsDescription": "Tier articles compare units by current usefulness, role overlap, and long-term value so you can prioritize upgrades and roster slots efficiently.",
+      "why": "Why check tier updates?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Set Better Reroll Goals",
+        "step1Description": "Identify high-value targets that improve early consistency and reduce reset time.",
+        "step2Title": "Upgrade the Right Units",
+        "step2Description": "Focus materials on units with strong role impact instead of splitting upgrades too broadly.",
+        "step3Title": "Adapt to Patch Changes",
+        "step3Description": "Use refreshed rankings to adjust team plans after balance updates or new unit releases."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Tier Articles"
     },
-    "items": {
-      "title": "Last Origin R Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Last Origin R Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Last Origin R including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "download": {
+      "title": "Last Origin R Download",
+      "description": "Platform-specific install options, client channel differences, and setup notes for PC and mobile play.",
+      "metaTitle": "Last Origin R Download - PC, Android, iOS, and Client Options",
+      "metaDescription": "Find Last Origin R download guidance for Android, iOS, PC channels, version differences, and practical setup steps.",
+      "categoryLabel": "DOWNLOAD SETUP",
+      "whatIs": "What is the Download category?",
+      "whatIsDescription": "Download articles cover platform availability, install methods, launcher variants, and common setup checks needed before entering the game.",
+      "why": "Why use download guides?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Choose the Right Platform",
+        "step1Description": "Compare mobile and PC options based on account flow, controls, and daily play convenience.",
+        "step2Title": "Install Without Guesswork",
+        "step2Description": "Follow tested setup sequences to avoid mismatched versions or login confusion.",
+        "step3Title": "Verify Client Readiness",
+        "step3Description": "Confirm update status, region behavior, and basic launch checks before long sessions."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Download Articles"
     },
-    "biomes": {
-      "title": "Last Origin R Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Last Origin R Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Last Origin R biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "release": {
+      "title": "Last Origin R Release",
+      "description": "Launch timeline, service milestones, and patch-history context for planning progression around new content.",
+      "metaTitle": "Last Origin R Release - Launch Timeline and Update Milestones",
+      "metaDescription": "Track Last Origin R release coverage including launch windows, patch milestones, and event timing that affects progression plans.",
+      "categoryLabel": "RELEASE TRACKING",
+      "whatIs": "What is the Release category?",
+      "whatIsDescription": "Release articles document launch timing, version milestones, and service notes so players can align resources and team goals with upcoming changes.",
+      "why": "Why track release information?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Plan Around Version Changes",
+        "step1Description": "Save key resources before major patches that introduce new units or systems.",
+        "step2Title": "Understand Event Windows",
+        "step2Description": "Use timeline context to prioritize events with the strongest progression returns.",
+        "step3Title": "Return Efficiently After Breaks",
+        "step3Description": "Catch up quickly by reviewing what changed across the latest release milestones."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Release Articles"
     },
-    "building": {
-      "title": "Last Origin R Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Last Origin R Building - Qualia & Base Construction",
-      "metaDescription": "Master Last Origin R building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "characters": {
+      "title": "Last Origin R Characters",
+      "description": "Roster overviews for role identity, skill intent, and team-fit decisions across campaign and event content.",
+      "metaTitle": "Last Origin R Characters - Unit Roles and Team Fit",
+      "metaDescription": "Browse Last Origin R character resources for role breakdowns, roster value, and practical team-building decisions.",
+      "categoryLabel": "CHARACTER ROSTER",
+      "whatIs": "What is the Characters category?",
+      "whatIsDescription": "Character articles focus on unit identity, role behavior, and usage patterns to help you build consistent squads for different encounter types.",
+      "why": "Why read character pages?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Understand Role Intent",
+        "step1Description": "Learn whether a unit performs best as damage, support, control, or frontline utility.",
+        "step2Title": "Build Better Team Synergy",
+        "step2Description": "Pair characters whose skills and formation behavior complement each other in real fights.",
+        "step3Title": "Prioritize Investment",
+        "step3Description": "Choose which units deserve immediate upgrades based on your current progression stage."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Character Articles"
     },
-    "support": {
-      "title": "Last Origin R Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Last Origin R Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Last Origin R including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "systems": {
+      "title": "Last Origin R Systems",
+      "description": "Mechanic deep dives for combat flow, formation logic, gacha planning, and research-related progression systems.",
+      "metaTitle": "Last Origin R Systems - Combat, Formation, and Progression Mechanics",
+      "metaDescription": "Read Last Origin R systems guides for combat rules, formation setup, gacha planning, and other mechanics that shape account growth.",
+      "categoryLabel": "SYSTEM BREAKDOWN",
+      "whatIs": "What is the Systems category?",
+      "whatIsDescription": "Systems articles explain the mechanics behind combat and progression so you can make decisions based on how the game actually calculates outcomes.",
+      "why": "Why study systems?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Improve Tactical Decisions",
+        "step1Description": "Use mechanic-level knowledge to position units and sequence actions more effectively.",
+        "step2Title": "Optimize Progression Loops",
+        "step2Description": "Understand how core systems interact so resource farming and upgrades stay efficient.",
+        "step3Title": "Reduce Trial-and-Error",
+        "step3Description": "Apply tested system behavior instead of relying on guesswork during difficult stages."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Systems Articles"
     }
   }
 }

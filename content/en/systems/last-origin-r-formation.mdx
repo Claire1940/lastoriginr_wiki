@@ -1,0 +1,176 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "last origin r formation: Strategic Setup Guide & Grid Tactics",
+  description: "Master the 9-grid combat system in Last Origin R. Learn optimal unit placement, role synergies, and advanced formation archetypes for 2026 gameplay.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Strategic+Formation+Guide",
+  date: "2026-05-24",
+  author: "last origin r Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **last origin r formation** relies on a 3x3 grid where positioning determines buff range and target priority.
+- **Frontline units** should focus on high Evasion or Defense to soak up incoming damage from the individual turn system.
+- **Support units** are most effective in the center or back-mid positions to maximize the reach of their passive aura skills.
+- **Action Point (AP) management** is critical; formations that boost AP recovery allow your squad to act more frequently.
+- **Synergy over rarity** is the golden rule; a well-coordinated B-rank squad often outperforms a disorganized SSR team.
+</Callout>
+
+<Section icon={Map} title="Understanding the 9-Grid last origin r formation System">
+
+The core of combat in Last Origin R revolves around a strategic 3x3 grid. Unlike traditional turn-based RPGs where positioning is purely cosmetic, the **last origin r formation** you choose directly dictates which units receive buffs, which enemies can be targeted, and how damage is distributed across your squad. Every unit possesses a unique set of passive skills that trigger based on their coordinates or their proximity to specific allies.
+
+In the individual turn system, speed and positioning work in tandem. Units with higher speed act first, but if they are placed in a formation that hinders their range, their early turn might be wasted. Understanding the grid coordinates—typically numbered 1 through 9—is the first step toward high-level play.
+
+| Grid Position | Common Designation | Primary Role Suitability |
+| :--- | :--- | :--- |
+| **1, 4, 7** | Back Row | Long-range DPS, Squishy Supports, Snipers |
+| **2, 5, 8** | Mid Row | Balanced Attackers, Aura Buffers, Off-Tanks |
+| **3, 6, 9** | Front Row | Main Tanks, Evasion Specialists, Melee DPS |
+
+<Callout type="warning" title="Grid Vulnerability">
+Certain enemy skills deal "row" or "column" damage. Avoid stacking all your high-priority units in a single vertical or horizontal line unless your formation provides specific damage reduction for that layout.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Unit Roles and Optimal Placement Strategy">
+
+To build an effective **last origin r formation**, you must categorize your combatants into specific roles. Each role has a "sweet spot" on the grid that maximizes their survivability while ensuring their skills reach the intended targets. The GOP Co., Ltd. version of the game emphasizes that every decision matters, and this starts with where you drag and drop your units before the battle begins.
+
+<CardGrid cols={3}>
+  <Card title="Defensive Protectors">
+    - **High HP/DEF stats**
+    - Usually placed in the Front Row (3, 6, 9)
+    - Protects allies from direct targeting
+  </Card>
+  <Card title="Tactical Supporters">
+    - **Aura-based passive buffs**
+    - Placed in the Center (5) or Mid Row
+    - Enhances AP and Accuracy for neighbors
+  </Card>
+  <Card title="Strike Combatants">
+    - **High damage, low durability**
+    - Placed in the Back Row (1, 4, 7)
+    - Requires protection to maintain DPS
+  </Card>
+</CardGrid>
+
+When arranging your team, consider the "Protection" mechanic. Many tank units have a passive ability that allows them to take damage in place of an ally located behind or adjacent to them. If your main damage dealer is in position 4, your tank should ideally be in position 5 or 7 to provide a safety net.
+
+| Role Type | Target Priority | Recommended Grid Slots |
+| :--- | :--- | :--- |
+| **Main Tank** | Highest | 6 (Center Front) or 3/9 |
+| **Area DPS** | Medium | 4 or 7 (Back corners) |
+| **Single Target DPS** | Low | 1 (Center Back) |
+| **Buffer** | Medium | 2, 5, or 8 (Mid line) |
+
+<Callout type="tip" title="Evasion vs Defense">
+Evasion tanks perform better in the Front Row against single-target bosses, while Defense-heavy tanks are superior in stages with many small enemies dealing chip damage.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Step-by-Step: Building Your First Competitive Squad">
+
+Creating a functional **last origin r formation** requires more than just picking your strongest units. You need to follow a logical progression to ensure the squad can handle the diverse challenges found in the campaign and event stages.
+
+<Steps>
+  <Step num="1" title="Identify Your Core DPS">
+    Select one or two primary damage dealers. Check their skill range; if they have a short range, they may need to be moved to the Mid Row, increasing their risk but ensuring they can hit the enemy backline.
+  </Step>
+  <Step num="2" title="Select a Compatible Tank">
+    Match your tank to your DPS. If your DPS is an Evasion-based unit, a tank that provides Evasion buffs is mandatory. If they are slow, look for a tank that can taunt enemies to buy time.
+  </Step>
+  <Step num="3" title="Fill with Support Synergies">
+    Look for supports that fill the gaps. If your squad lacks Accuracy, add a unit that provides a "Precision" aura. Ensure the support's buff range covers the grid slots where your DPS and Tank are located.
+  </Step>
+  <Step num="4" title="Audit the Grid Layout">
+    Review the final 3x3 layout. Ensure no two squishy units are unprotected. Check for "dead zones" where a unit is sitting in a slot but receiving zero passive benefits from the rest of the team.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Formation Validation">
+Always test your new formation in a low-cost farming stage before taking it into high-difficulty content. Watch the turn order to see if your supports are buffing *before* your attackers take their actions.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Advanced Formation Archetypes and Meta Trends">
+
+As you progress into the 2026 meta of Last Origin R, simple placement is no longer enough. You must adopt specific archetypes designed to counter difficult enemy compositions. These archetypes utilize the grid to focus power into a specific tactical outcome, whether it is overwhelming speed or unbreakable defense.
+
+| Archetype Name | Core Strategy | Best For |
+| :--- | :--- | :--- |
+| **The Diamond** | Unit in 5, 2, 8, 4, 6 | Balanced protection and aura coverage |
+| **The T-Shield** | Units in 3, 6, 9 and 5, 2 | Maximum frontline stall for 1-2 backline DPS |
+| **The Inverted V** | Units in 1, 7, 5, 3, 9 | Spreading out to minimize AoE damage impact |
+| **The Speed Blitz** | All units in Mid/Back rows | High AP focus to wipe enemies before they act |
+
+The "Diamond" formation is currently the most popular for general campaign clearing. By placing a high-tier support in slot 5 (the center), their aura can potentially reach every other unit on the grid, provided the units are placed in slots 2, 4, 6, and 8. This maximizes resource efficiency and ensures the entire squad operates at peak performance.
+
+<Callout type="info" title="Environmental Hazards">
+Some 2026 event stages feature "tile hazards" that deal damage or debuffs to specific grid coordinates every turn. Always check the stage info and adjust your formation to avoid these dangerous slots.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Strategic Optimization and Checklist">
+
+To maintain a top-tier **last origin r formation**, you must constantly iterate based on the new units and equipment you acquire. The game's depth comes from the interaction between unit growth and tactical arrangement. Use the following checklist to ensure your squad is always optimized for the task at hand.
+
+<Checklist
+  id="formation-audit"
+  title="Daily Formation Health Check:"
+  items={[
+    "Verify all units are within the range of at least two beneficial auras.",
+    "Check that the Main Tank's protection skill is active for the primary DPS.",
+    "Adjust positioning to account for enemy 'Preferred Target' logic.",
+    "Ensure Action Point (AP) buffers have the highest speed in the squad.",
+    "Confirm that no units are placed on 'Hazard Tiles' for the current stage."
+  ]}
+/>
+
+| Optimization Factor | Impact on Combat | Priority |
+| :--- | :--- | :--- |
+| **Aura Overlap** | Multiplicative stat increases | **Critical** |
+| **Target Redirection** | Keeps fragile units alive longer | **High** |
+| **Skill Range Alignment** | Ensures no turns are wasted | **High** |
+| **Element Matching** | Bonus damage against specific types | Medium |
+
+<Callout type="tip" title="Final Professional Advice">
+Don't be afraid to leave grid slots empty. A 4-unit formation with perfect synergy is often stronger than a 5-unit formation where the fifth unit disrupts the buff ranges or draws unwanted AoE fire toward your core.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "How do I know if my last origin r formation is actually working?",
+    answer: "Watch the 'Buff List' during combat. If your main attacker has multiple stacks of Attack, Crit, and AP buffs from their allies, your formation is successful. If they are dying before their first turn, you need more frontline protection."
+  },
+  {
+    question: "Does the order of units in the squad menu affect the grid?",
+    answer: "No, the menu order only affects the UI. You must manually place units on the 3x3 grid in the 'Formation' or 'Squad' sub-menu to change their tactical coordinates."
+  },
+  {
+    question: "Can I use the same formation for every stage?",
+    answer: "While a 'General Purpose' formation works for most of the campaign, late-game bosses and event stages often require specific adjustments to counter unique enemy mechanics like piercing beams or back-row sniping."
+  },
+  {
+    question: "What is the most important stat for a unit in the center slot (Position 5)?",
+    answer: "Range and Aura Radius. Since Position 5 is the heart of the grid, the unit there should have passive skills that reach as many adjacent tiles as possible to maximize team-wide efficiency."
+  }
+]} />
+
+</Section>
