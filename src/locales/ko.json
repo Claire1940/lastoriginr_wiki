@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Last Origin R Wiki - Codes, Builds, Tier List & Events",
+      "description": "Last Origin R Wiki tracks active codes, beginner progression, reroll routes, team builds, combat formation plans, and event updates for global players.",
+      "keywords": "Last Origin R, Last Origin R wiki, Last Origin R codes, Last Origin R tier list, Last Origin R reroll, Last Origin R team builds",
+      "ogTitle": "Last Origin R Wiki - Codes, Builds, Tier List & Events",
+      "ogDescription": "Last Origin R Wiki tracks active codes, beginner progression, reroll routes, team builds, combat formation plans, and event updates for global players.",
+      "twitterTitle": "Last Origin R Wiki - Codes, Builds, Tier List & Events",
+      "twitterDescription": "Last Origin R Wiki with code status, tactical squad guides, reroll tips, and update tracking."
+    }
+  },
   "nav": {
     "guide": "Guide",
     "tier": "Tier",
@@ -6,5 +17,648 @@
     "release": "Release",
     "characters": "Characters",
     "systems": "Systems"
+  },
+  "common": {
+    "home": "Home",
+    "more": "More",
+    "playNow": "Play on Steam",
+    "switchLanguage": "Switch Language",
+    "switchTheme": "Switch Theme",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "notFound": "Page Not Found",
+    "notFoundDescription": "The page you are looking for does not exist.",
+    "backToHome": "Back to Home",
+    "relatedArticles": "Related Articles",
+    "readMore": "Read More",
+    "articlesComingSoon": "Articles coming soon"
+  },
+  "hero": {
+    "badge": "Post-Apocalyptic Tactical RPG",
+    "title": "Last Origin R Wiki",
+    "description": "Command bioroid squads in turn-based 9-grid combat, train your core roster, and follow launch-to-latest updates across PC, Android, and iOS.",
+    "getFreeCodesCTA": "Open Last Origin R on VFUN (PC)",
+    "playOnSteamCTA": "Get Last Origin R on Google Play",
+    "stats": {
+      "stat1": {
+        "value": "50K+",
+        "label": "Google Play Downloads"
+      },
+      "stat2": {
+        "value": "PC / Android / iOS",
+        "label": "Platforms"
+      },
+      "stat3": {
+        "value": "6+",
+        "label": "Languages"
+      },
+      "stat4": {
+        "value": "May 21, 2026",
+        "label": "Global Launch"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Last Origin R Gameplay",
+    "description": "Watch squad command, turn-based combat, and 9-grid tactical positioning in Last Origin R global gameplay."
+  },
+  "tools": {
+    "title": "Last Origin R",
+    "titleHighlight": "Homepage Modules",
+    "subtitle": "Jump to the eight core Last Origin R guide modules on this homepage",
+    "cards": [
+      {
+        "icon": "Ticket",
+        "title": "Last Origin R Codes",
+        "description": "Coupon status, official channels, and launch reward tracking"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Last Origin R Beginner Guide",
+        "description": "Starter flow, 9-grid basics, and early account setup"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Last Origin R Tier List",
+        "description": "Role-based starter priorities for safe progression"
+      },
+      {
+        "icon": "RefreshCcw",
+        "title": "Last Origin R Reroll Guide",
+        "description": "Keep-or-reroll rules for launch window accounts"
+      },
+      {
+        "icon": "Users",
+        "title": "Last Origin R Team Builds",
+        "description": "Balanced squads, protection plans, and farming teams"
+      },
+      {
+        "icon": "Swords",
+        "title": "Last Origin R Combat and Formation Guide",
+        "description": "Turn order, position control, and battlefield safety"
+      },
+      {
+        "icon": "UserRound",
+        "title": "Last Origin R Characters and Units",
+        "description": "Unit comparison, growth focus, and cast highlights"
+      },
+      {
+        "icon": "CalendarClock",
+        "title": "Last Origin R Events and Update Log",
+        "description": "Launch timeline, new combatants, and live updates"
+      }
+    ]
+  },
+  "modules": {
+    "lastOriginRCodes": {
+      "title": "Last Origin R+ Codes",
+      "displayType": "codeCards",
+      "intro": "Last Origin R+ does not need fake code padding. This section tracks official coupon availability, VFUN reward channels, launch promotions, and expired-code status so players know where real rewards come from.",
+      "items": [
+        {
+          "label": "Active Public Coupons",
+          "code": "No active public coupon listed",
+          "status": "not-listed",
+          "reward": "No public redeem code is shown on the official VFUN, X, or Facebook channels.",
+          "note": "Use this card to prevent fake code claims while keeping the code module useful for searchers."
+        },
+        {
+          "label": "Launch Milestone Rewards",
+          "code": "Pre-registration Rewards",
+          "status": "launch-reward",
+          "reward": "Resource Pack, Genetic Material, Constantia S2 Battle Suit, Cyclops Princess, Bloodstained Eyepatch, Battle Log, Training Manual, Blind Princess, and Special Alternate Core.",
+          "note": "These were announced as global pre-registration milestone rewards."
+        },
+        {
+          "label": "Official Reward Hub",
+          "code": "VFUN Library",
+          "status": "official-channel",
+          "reward": "Game access, platform news, launcher information, and future official reward notices.",
+          "note": "Players should verify coupons through VFUN or official social posts before using any reposted code."
+        },
+        {
+          "label": "Expired Coupons",
+          "code": "No expired public coupon archive",
+          "status": "none-listed",
+          "reward": "No expired official coupon list is published in the checked official channels.",
+          "note": "Keep this card for future expired-code tracking after official coupon campaigns begin."
+        }
+      ]
+    },
+    "lastOriginRBeginnerGuide": {
+      "title": "Last Origin R+ Beginner Guide",
+      "displayType": "steps",
+      "intro": "Last Origin R+ is a strategy RPG about commanding biroids in turn-based grid battles. New players should focus on safe squad setup, early training, and steady story progression before chasing advanced builds.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Start on your preferred platform",
+          "details": "Last Origin R+ is available through Android, iOS, and the VFUN platform. Mobile players can install from Google Play or the App Store, while PC players should use the official VFUN page.",
+          "priority": "High"
+        },
+        {
+          "step": 2,
+          "title": "Understand the battle loop",
+          "details": "Each fight uses turn-based tactical combat. Your goal is to position units correctly, use each character’s strengths, and clear enemies while keeping the squad safe.",
+          "priority": "High"
+        },
+        {
+          "step": 3,
+          "title": "Use the 9-grid formation system",
+          "details": "The official store description highlights a 9-grid battlefield. Place durable units where they can protect the team and keep fragile damage dealers away from direct pressure.",
+          "priority": "High"
+        },
+        {
+          "step": 4,
+          "title": "Train characters before spreading resources",
+          "details": "Character growth and skill enhancement are core progression systems. Early resources should go into units that help clear campaign stages consistently.",
+          "priority": "High"
+        },
+        {
+          "step": 5,
+          "title": "Push campaign and story stages",
+          "details": "Story stages introduce the ruined-world setting and unlock the main flow of progression. New accounts should clear stable stages first instead of rushing difficult content.",
+          "priority": "Medium"
+        },
+        {
+          "step": 6,
+          "title": "Use launch rewards for account growth",
+          "details": "Pre-registration rewards included Resource Packs, Genetic Material, Battle Log, Training Manual, Blind Princess, Cyclops Princess, and Special Alternate Core. These rewards are useful for early roster setup and growth.",
+          "priority": "Medium"
+        }
+      ]
+    },
+    "lastOriginRTierList": {
+      "title": "Last Origin R+ Tier List",
+      "displayType": "tierGrid",
+      "intro": "Because Last Origin R+ is built around 9-grid combat, early value comes from team function more than single-unit hype. This tier list ranks starter roles and confirmed launch reward targets by how useful they are for safe progression.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Core Starter Value",
+          "entries": [
+            {
+              "name": "Durable Frontline Defender",
+              "role": "Defender",
+              "reason": "A safe frontline helps protect attackers and supports in grid battles, making early story clears more stable."
+            },
+            {
+              "name": "Reliable Main Attacker",
+              "role": "Attacker",
+              "reason": "A consistent damage dealer speeds up campaign stages and makes resource farming easier."
+            },
+            {
+              "name": "Blind Princess",
+              "role": "Launch reward target",
+              "reason": "Blind Princess was listed as a 50K pre-registration milestone reward together with Special Alternate Core, making her an important early account target."
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Strong Early Support",
+          "entries": [
+            {
+              "name": "Turn-control or AP Support",
+              "role": "Supporter",
+              "reason": "Turn-based combat rewards units that help the squad act safely and keep the main attacker active."
+            },
+            {
+              "name": "Cyclops Princess",
+              "role": "Launch reward target",
+              "reason": "Cyclops Princess was listed as a 30K pre-registration milestone reward, giving new players another valuable roster target."
+            },
+            {
+              "name": "Training Manual and Battle Log Investment",
+              "role": "Growth resource",
+              "reason": "These launch rewards support faster early character growth and should go into your most reliable starter units."
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Useful but Team-Dependent",
+          "entries": [
+            {
+              "name": "Single-Target Boss Attacker",
+              "role": "Attacker",
+              "reason": "Useful when a stage needs focused damage, but less flexible than a general campaign carry."
+            },
+            {
+              "name": "Niche Elemental Attacker",
+              "role": "Attacker",
+              "reason": "Element-focused units can be strong when the stage favors them, but they are less universal for first-week progression."
+            },
+            {
+              "name": "Constantia S2 Battle Suit",
+              "role": "Launch reward item",
+              "reason": "This was listed as a 10K milestone reward and is useful as part of the launch reward package, but it is not the main reroll target."
+            }
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Low Early Priority",
+          "entries": [
+            {
+              "name": "Unbuilt Filler Unit",
+              "role": "Flexible slot",
+              "reason": "A unit with no investment or no clear job should not take priority over your defender, main attacker, and support core."
+            },
+            {
+              "name": "Skin-Only Target",
+              "role": "Cosmetic",
+              "reason": "R+ exclusive skins are valuable for collectors, but they do not replace early squad stability."
+            }
+          ]
+        }
+      ]
+    },
+    "lastOriginRRerollGuide": {
+      "title": "Last Origin R+ Reroll Guide",
+      "displayType": "steps",
+      "intro": "Rerolling in Last Origin R+ should be practical, not endless. A good starter account should secure useful launch rewards, build a balanced 9-grid squad, and invest early resources into units that help clear story stages.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Claim official launch and milestone rewards first",
+          "details": "Start by collecting available official rewards such as Resource Packs, Genetic Material, Battle Log, Training Manual, Blind Princess, Cyclops Princess, and Special Alternate Core.",
+          "keepRule": "Keep accounts that can immediately strengthen a main team."
+        },
+        {
+          "step": 2,
+          "title": "Prioritize team function over rare-name chasing",
+          "details": "Because combat uses grid positioning and turn-based tactics, a strong account needs a defender, a reliable attacker, and useful support more than one isolated unit.",
+          "keepRule": "Keep accounts with a clear frontline plus a safe damage core."
+        },
+        {
+          "step": 3,
+          "title": "Value Blind Princess and Cyclops Princess as launch targets",
+          "details": "Both names appeared in pre-registration milestone rewards, making them important early account targets for players starting during the global launch window.",
+          "keepRule": "Keep accounts that secure these launch reward targets and enough resources to build around them."
+        },
+        {
+          "step": 4,
+          "title": "Spend early growth resources carefully",
+          "details": "Training Manual, Battle Log, Genetic Material, and Resource Packs should support your best campaign-clearing units first.",
+          "keepRule": "Keep accounts where resources can build one stable team instead of spreading across many units."
+        },
+        {
+          "step": 5,
+          "title": "Do a light reroll only",
+          "details": "Rerolling is useful if the account misses key launch rewards or starts with a weak team shape. Once you have a stable defender-attacker-support core, progression is more valuable than restarting repeatedly.",
+          "keepRule": "Stop rerolling when your account can clear early story stages safely."
+        }
+      ]
+    },
+    "lastOriginRTeamBuilds": {
+      "title": "Last Origin R+ Team Builds",
+      "displayType": "cardList",
+      "intro": "Use this section to plan practical teams around role balance instead of raw power only. Start with a protected damage core, add a durable front line, then improve support and skill growth as stages become harder.",
+      "items": [
+        {
+          "title": "Balanced Starter Squad",
+          "tag": "Best First Setup",
+          "description": "Use one main damage dealer, one durable front unit, and support or utility units around them. This fits the game focus on commanding a squad, arranging units across a 9-grid battlefield, and maximizing each unit's strengths.",
+          "bullets": [
+            "Put durable units in the cells most likely to take hits.",
+            "Keep the main damage dealer away from exposed positions.",
+            "Train the units you actually keep in the active lineup."
+          ]
+        },
+        {
+          "title": "Protected Damage Core",
+          "tag": "Damage Plan",
+          "description": "Build around the unit that clears enemies most reliably, then use formation to keep that unit safe. Skill enhancement matters because character training and skill growth are core progression systems.",
+          "bullets": [
+            "Upgrade the main carry before spreading resources too thin.",
+            "Place support near the damage core when the stage pattern allows it.",
+            "Change the grid setup when enemies threaten the back line."
+          ]
+        },
+        {
+          "title": "Frontline Safety Build",
+          "tag": "Survival Plan",
+          "description": "Use durable units in exposed cells so fragile allies can keep acting. This is useful for players stuck in campaign or event stages where careful positioning matters more than simple auto-battle power.",
+          "bullets": [
+            "Use the front row to absorb pressure.",
+            "Avoid leaving important units isolated.",
+            "Recheck formation after every new stage type."
+          ]
+        },
+        {
+          "title": "Repeat Farming Team",
+          "tag": "Stable Clears",
+          "description": "For farming, prioritize consistency over risky burst damage. A safer team that clears the same stage repeatedly is more valuable than a stronger-looking team that fails when turn order or enemy targeting changes.",
+          "bullets": [
+            "Use a lineup that survives bad targeting.",
+            "Keep skill upgrades focused on the repeat-clear team.",
+            "Replace weak links only after the current stage is stable."
+          ]
+        }
+      ]
+    },
+    "lastOriginRCombatFormationGuide": {
+      "title": "Last Origin R+ Combat and Formation Guide",
+      "displayType": "steps",
+      "intro": "This guide explains how to think during battle: read the grid, protect the carry, control exposed cells, and time skills around turn order. It is made for new players who want a clear combat plan before pushing harder campaign or event stages.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Read the stage grid first",
+          "description": "Battles use dynamic grid stages, so the first job is to check where enemies can pressure your squad. Do not treat every stage as the same formation puzzle.",
+          "tip": "Move or rebuild the squad layout when enemy attacks reach your protected cells."
+        },
+        {
+          "step": 2,
+          "title": "Place durable units in danger cells",
+          "description": "The game emphasizes keeping allies safe. Put durable front units where attacks are most likely to land, then place fragile units behind or away from pressure.",
+          "tip": "A good formation prevents damage before healing or recovery is needed."
+        },
+        {
+          "step": 3,
+          "title": "Protect the main damage dealer",
+          "description": "A squad should maximize each unit's strengths across the 9-grid battlefield. Damage units usually give more value when they survive long enough to act every round.",
+          "tip": "If your best attacker dies early, the formation is wrong even if the unit is strong."
+        },
+        {
+          "step": 4,
+          "title": "Use skills with turn order in mind",
+          "description": "Last Origin R+ uses an individual turn system, so skill timing matters. Set up buffs, protection, or control before committing your main damage action.",
+          "tip": "Do not spend key skills before the unit that benefits from them can act."
+        },
+        {
+          "step": 5,
+          "title": "Upgrade formation and skills together",
+          "description": "Character training and skill enhancement are both part of progression. A strong unit still needs the right cell, and a good formation still needs upgraded skills to keep up with harder fights.",
+          "tip": "When a stage fails, check both placement and skill investment before replacing the whole team."
+        }
+      ]
+    },
+    "lastOriginRCharactersAndUnits": {
+      "title": "Last Origin R+ Characters and Units",
+      "displayType": "table",
+      "intro": "Last Origin R+ is character-driven, but the safest early approach is to compare units by role, formation fit, skill value, and current update relevance. This module highlights character data from official store pages and launch coverage.",
+      "headers": {
+        "category": "Category",
+        "confirmedData": "Confirmed Data",
+        "playerUse": "Player Use"
+      },
+      "rows": [
+        {
+          "category": "Combatants and Biroids",
+          "confirmedData": "Last Origin R+ is a post-apocalyptic strategy RPG where players fight alongside biroids and command their own squad.",
+          "playerUse": "Use this as the base description for unit list, combatant guide, and character overview searches."
+        },
+        {
+          "category": "Character Growth",
+          "confirmedData": "The store pages describe training characters, enhancing skills, and assembling an ultimate lineup.",
+          "playerUse": "Prioritize units that fit your active squad and keep their skill upgrades focused."
+        },
+        {
+          "category": "Formation Value",
+          "confirmedData": "Units are arranged across a 9-grid battlefield to maximize each unit's strengths.",
+          "playerUse": "Compare units by where they can safely stand, what they protect, and how they support the main damage plan."
+        },
+        {
+          "category": "Voice Cast",
+          "confirmedData": "Confirmed cast names include Yui Horie, Aya Suzaki, Emiri Kato, Yuu Serizawa, Osamu Hiyama, Reina Ueda, Kana Asumi, Manami Numakura, Yumi Hara, Lansbury Arthur, Aimi Tanaka, Chinatsu Akasaki, Mimu Kubota, Noriko Shitaya, Madoka Yonezawa, Himika Akaneya, and Sayuri Hara.",
+          "playerUse": "Use this row for voice actor, character profile, and presentation-focused searches."
+        },
+        {
+          "category": "R+ Exclusive Skin Example",
+          "confirmedData": "Launch coverage announced 10 exclusive R+ service skins, including a R+ remake of the New Teacher Leprechaun skin for T-3 Leprechaun.",
+          "playerUse": "Separate R+ exclusive cosmetics from normal character growth and standard Last Origin skin references."
+        },
+        {
+          "category": "Live Update Additions",
+          "confirmedData": "Recent store update notes list new combatants, new special skins, new event stories, permanent event stories, multi-language support, and new event items.",
+          "playerUse": "Keep character pages fresh by connecting new units and skins to the latest version update."
+        }
+      ]
+    },
+    "lastOriginREventsAndUpdateLog": {
+      "title": "Last Origin R+ Events and Update Log",
+      "displayType": "timeline",
+      "intro": "Use this update log for returning players who want to know what changed recently. It focuses on official store notes, VALOFE/VFUN service links, official social posts, and launch coverage.",
+      "entries": [
+        {
+          "date": "May 21, 2026",
+          "update": "Global Service Launch",
+          "details": "Last Origin R+ launched globally as a version designed for global users.",
+          "playerImpact": "New players can start from the global service and follow launch rewards, account setup, and early progression events."
+        },
+        {
+          "date": "Launch Window",
+          "update": "Commemorative Promotions and Double EXP Event",
+          "details": "Launch coverage reports commemorative promotions, a double experience event, and progression packages prepared for early content.",
+          "playerImpact": "Good timing for new accounts to push early stages, train characters, and build a first stable squad."
+        },
+        {
+          "date": "Version 1.3.7",
+          "update": "New Event Stories and Permanent Event Stories",
+          "details": "The latest store update notes list new event stories and permanent event stories added.",
+          "playerImpact": "Returning players should check story content, event access, and available rewards."
+        },
+        {
+          "date": "Version 1.3.7",
+          "update": "New Combatants, Special Skins, and Event Items",
+          "details": "The latest store update notes list new combatants, new special skins, and new event items.",
+          "playerImpact": "Use this update for character pages, skin pages, event item guides, and farming priority content."
+        },
+        {
+          "date": "Global Launch",
+          "update": "Multi-language Support",
+          "details": "Launch and store update coverage describe multi-language support for the global service.",
+          "playerImpact": "Helpful for players choosing the correct region, client, and language setting."
+        },
+        {
+          "date": "Global Launch",
+          "update": "10 R+ Exclusive Service Skins",
+          "details": "Launch coverage announced 10 exclusive R+ service skins, including a R+ version of New Teacher Leprechaun for T-3 Leprechaun.",
+          "playerImpact": "Skin collectors should track R+ exclusive skins separately from standard Last Origin content."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Last Origin R",
+    "titleHighlight": "FAQ",
+    "subtitle": "Key platform, progression, and update answers for Last Origin R players",
+    "questions": [
+      {
+        "question": "Is Last Origin R singleplayer?",
+        "answer": "Last Origin R is built around single-account squad progression with tactical turn-based combat and story advancement."
+      },
+      {
+        "question": "Where can I play Last Origin R?",
+        "answer": "Last Origin R is available on VFUN for PC and through Google Play and the App Store for mobile players."
+      },
+      {
+        "question": "How should beginners start in Last Origin R?",
+        "answer": "New players should stabilize one defender-attacker-support core, use safe 9-grid placement, and focus upgrades on the active clear team."
+      },
+      {
+        "question": "Does Last Origin R need rerolling?",
+        "answer": "Last Origin R rerolling should stay light: keep accounts that secure launch rewards and can clear early stages with a stable team core."
+      },
+      {
+        "question": "How often does Last Origin R receive updates?",
+        "answer": "Last Origin R global updates include new combatants, skins, event stories, and event items, so checking the update log is useful for returning players."
+      },
+      {
+        "question": "Where should I verify Last Origin R code announcements?",
+        "answer": "Use official Last Origin R channels such as VFUN Library and the official social accounts before trusting reposted code claims."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Command Last Origin R Squads?",
+    "description": "Join the Last Origin R community and continue your progression with official channels, updates, and launch-era resources.",
+    "joinCommunity": "Join Last Origin R Discord",
+    "joinGame": "Open Last Origin R on VFUN"
+  },
+  "footer": {
+    "title": "Last Origin R Wiki",
+    "description": "Fan-made Last Origin R resource hub for code status, beginner setup, tier priorities, team builds, and event updates.",
+    "resources": "Resources",
+    "community": "Community",
+    "legal": "Legal",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "steamCommunity": "YouTube Gameplay",
+    "steamStore": "Google Play",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Last Origin R Wiki. Not affiliated with VALOFE, SmartJoy, or the Last Origin R publishers/developers.",
+    "disclaimer": "Unofficial fan-made resource website.",
+    "appStore": "App Store",
+    "trademarkNote": "Last Origin R names and assets belong to their respective owners.",
+    "platformNote": "Platform links are provided for player convenience.",
+    "updateNote": "Homepage modules are refreshed for global launch and version changes."
+  },
+  "pages": {
+    "guide": {
+      "title": "Last Origin R Guide",
+      "description": "Step-by-step progression routes, early resource priorities, and daily routines for new and returning commanders.",
+      "metaTitle": "Last Origin R Guide - Beginner to Mid-Game Progression",
+      "metaDescription": "Use this Last Origin R guide hub for onboarding, formation basics, farming flow, and practical progression checkpoints.",
+      "categoryLabel": "CORE GUIDE",
+      "whatIs": "What is the Guide category?",
+      "whatIsDescription": "Guide articles explain how Last Origin R progression works in practice, including onboarding flow, account setup, daily loops, and efficient upgrade timing.",
+      "why": "Why read these guides?",
+      "whySteps": {
+        "step1Title": "Start With a Stable Route",
+        "step1Description": "Follow a clear early-game order for campaign stages, upgrades, and core account milestones.",
+        "step2Title": "Avoid Resource Waste",
+        "step2Description": "Learn where to spend limited materials first so your main squad scales without bottlenecks.",
+        "step3Title": "Build Repeatable Routines",
+        "step3Description": "Use consistent daily and weekly loops to keep progression steady between major updates."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guide Articles"
+    },
+    "tier": {
+      "title": "Last Origin R Tier",
+      "description": "Role-based unit priority snapshots for reroll plans, campaign pushing, and stable team upgrades.",
+      "metaTitle": "Last Origin R Tier - Unit Priority and Team Value",
+      "metaDescription": "Check Last Origin R tier resources for reroll targets, role coverage, and practical upgrade priorities by content stage.",
+      "categoryLabel": "TIER PRIORITY",
+      "whatIs": "What is the Tier category?",
+      "whatIsDescription": "Tier articles compare units by current usefulness, role overlap, and long-term value so you can prioritize upgrades and roster slots efficiently.",
+      "why": "Why check tier updates?",
+      "whySteps": {
+        "step1Title": "Set Better Reroll Goals",
+        "step1Description": "Identify high-value targets that improve early consistency and reduce reset time.",
+        "step2Title": "Upgrade the Right Units",
+        "step2Description": "Focus materials on units with strong role impact instead of splitting upgrades too broadly.",
+        "step3Title": "Adapt to Patch Changes",
+        "step3Description": "Use refreshed rankings to adjust team plans after balance updates or new unit releases."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier Articles"
+    },
+    "download": {
+      "title": "Last Origin R Download",
+      "description": "Platform-specific install options, client channel differences, and setup notes for PC and mobile play.",
+      "metaTitle": "Last Origin R Download - PC, Android, iOS, and Client Options",
+      "metaDescription": "Find Last Origin R download guidance for Android, iOS, PC channels, version differences, and practical setup steps.",
+      "categoryLabel": "DOWNLOAD SETUP",
+      "whatIs": "What is the Download category?",
+      "whatIsDescription": "Download articles cover platform availability, install methods, launcher variants, and common setup checks needed before entering the game.",
+      "why": "Why use download guides?",
+      "whySteps": {
+        "step1Title": "Choose the Right Platform",
+        "step1Description": "Compare mobile and PC options based on account flow, controls, and daily play convenience.",
+        "step2Title": "Install Without Guesswork",
+        "step2Description": "Follow tested setup sequences to avoid mismatched versions or login confusion.",
+        "step3Title": "Verify Client Readiness",
+        "step3Description": "Confirm update status, region behavior, and basic launch checks before long sessions."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Download Articles"
+    },
+    "release": {
+      "title": "Last Origin R Release",
+      "description": "Launch timeline, service milestones, and patch-history context for planning progression around new content.",
+      "metaTitle": "Last Origin R Release - Launch Timeline and Update Milestones",
+      "metaDescription": "Track Last Origin R release coverage including launch windows, patch milestones, and event timing that affects progression plans.",
+      "categoryLabel": "RELEASE TRACKING",
+      "whatIs": "What is the Release category?",
+      "whatIsDescription": "Release articles document launch timing, version milestones, and service notes so players can align resources and team goals with upcoming changes.",
+      "why": "Why track release information?",
+      "whySteps": {
+        "step1Title": "Plan Around Version Changes",
+        "step1Description": "Save key resources before major patches that introduce new units or systems.",
+        "step2Title": "Understand Event Windows",
+        "step2Description": "Use timeline context to prioritize events with the strongest progression returns.",
+        "step3Title": "Return Efficiently After Breaks",
+        "step3Description": "Catch up quickly by reviewing what changed across the latest release milestones."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Release Articles"
+    },
+    "characters": {
+      "title": "Last Origin R Characters",
+      "description": "Roster overviews for role identity, skill intent, and team-fit decisions across campaign and event content.",
+      "metaTitle": "Last Origin R Characters - Unit Roles and Team Fit",
+      "metaDescription": "Browse Last Origin R character resources for role breakdowns, roster value, and practical team-building decisions.",
+      "categoryLabel": "CHARACTER ROSTER",
+      "whatIs": "What is the Characters category?",
+      "whatIsDescription": "Character articles focus on unit identity, role behavior, and usage patterns to help you build consistent squads for different encounter types.",
+      "why": "Why read character pages?",
+      "whySteps": {
+        "step1Title": "Understand Role Intent",
+        "step1Description": "Learn whether a unit performs best as damage, support, control, or frontline utility.",
+        "step2Title": "Build Better Team Synergy",
+        "step2Description": "Pair characters whose skills and formation behavior complement each other in real fights.",
+        "step3Title": "Prioritize Investment",
+        "step3Description": "Choose which units deserve immediate upgrades based on your current progression stage."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Character Articles"
+    },
+    "systems": {
+      "title": "Last Origin R Systems",
+      "description": "Mechanic deep dives for combat flow, formation logic, gacha planning, and research-related progression systems.",
+      "metaTitle": "Last Origin R Systems - Combat, Formation, and Progression Mechanics",
+      "metaDescription": "Read Last Origin R systems guides for combat rules, formation setup, gacha planning, and other mechanics that shape account growth.",
+      "categoryLabel": "SYSTEM BREAKDOWN",
+      "whatIs": "What is the Systems category?",
+      "whatIsDescription": "Systems articles explain the mechanics behind combat and progression so you can make decisions based on how the game actually calculates outcomes.",
+      "why": "Why study systems?",
+      "whySteps": {
+        "step1Title": "Improve Tactical Decisions",
+        "step1Description": "Use mechanic-level knowledge to position units and sequence actions more effectively.",
+        "step2Title": "Optimize Progression Loops",
+        "step2Description": "Understand how core systems interact so resource farming and upgrades stay efficient.",
+        "step3Title": "Reduce Trial-and-Error",
+        "step3Description": "Apply tested system behavior instead of relying on guesswork during difficult stages."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Systems Articles"
+    }
   }
 }

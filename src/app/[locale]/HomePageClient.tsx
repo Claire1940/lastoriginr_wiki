@@ -156,10 +156,11 @@ export default function HomePageClient({
     if (!moduleLink?.url) {
       return <h2 className={className}>{title}</h2>;
     }
+    const localizedModuleUrl = locale === "en" ? moduleLink.url : `/${locale}${moduleLink.url}`;
 
     return (
       <h2 className={className}>
-        <Link href={`/${locale}${moduleLink.url}`} className={moduleLinkClass}>
+        <Link href={localizedModuleUrl} className={moduleLinkClass}>
           <span>{title}</span>
           <ExternalLink className="w-5 h-5" />
         </Link>

@@ -103,6 +103,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       ],
     },
     manifest: "/manifest.json",
+    other: {
+      "google-adsense-account": "ca-pub-7733402184034568",
+    },
     alternates: buildLanguageAlternates("/", locale as Locale, siteUrl),
   };
 }
@@ -121,22 +124,19 @@ export default async function LocaleLayout({ children, params }: Props) {
   const wikiLinks = getWikiLinks();
 
 	return (
-		<html lang={locale} className={`${geistSans.variable} ${geistMono.variable}`} suppressHydrationWarning>
-			<head>
-				<meta name="google-adsense-account" content="ca-pub-7733402184034568" />
-				<Script
-					crossOrigin="anonymous"
-					src="https://unpkg.com/same-runtime@0.0.1/dist/index.global.js"
-					strategy="beforeInteractive"
-				/>
-				<Script
-					async
-					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7733402184034568"
-					crossOrigin="anonymous"
-					strategy="lazyOnload"
-				/>
-			</head>
-			<body suppressHydrationWarning className="antialiased">
+		<>
+			<Script
+				crossOrigin="anonymous"
+				src="https://unpkg.com/same-runtime@0.0.1/dist/index.global.js"
+				strategy="beforeInteractive"
+			/>
+			<Script
+				async
+				src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7733402184034568"
+				crossOrigin="anonymous"
+				strategy="lazyOnload"
+			/>
+			<div className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
 				<Analytics />
 				<NextIntlClientProvider messages={messages}>
 					<ClientBody navPreviewData={navPreviewData} wikiLinks={wikiLinks}>{children}</ClientBody>
@@ -147,7 +147,7 @@ export default async function LocaleLayout({ children, params }: Props) {
 				<SocialBarAd adKey={process.env.NEXT_PUBLIC_AD_SOCIAL_BAR || ''} />
 				{/* Popunder 自动跳转广告 */}
 				<PopunderAd adUrl={process.env.NEXT_PUBLIC_AD_POPUNDER || ''} />
-			</body>
-		</html>
+			</div>
+		</>
 	)
 }
