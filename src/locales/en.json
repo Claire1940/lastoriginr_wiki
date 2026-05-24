@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Last Origin R Wiki - Codes, Builds, Tier List & Events",
+      "description": "Last Origin R Wiki tracks active codes, beginner progression, reroll routes, team builds, combat formation plans, and event updates for global players.",
+      "keywords": "Last Origin R, Last Origin R wiki, Last Origin R codes, Last Origin R tier list, Last Origin R reroll, Last Origin R team builds",
+      "ogTitle": "Last Origin R Wiki - Codes, Builds, Tier List & Events",
+      "ogDescription": "Last Origin R Wiki tracks active codes, beginner progression, reroll routes, team builds, combat formation plans, and event updates for global players.",
+      "twitterTitle": "Last Origin R Wiki - Codes, Builds, Tier List & Events",
+      "twitterDescription": "Last Origin R Wiki with code status, tactical squad guides, reroll tips, and update tracking."
     }
   },
   "nav": {},
@@ -29,8 +29,8 @@
   "hero": {
     "badge": "Post-Apocalyptic Tactical RPG",
     "title": "Last Origin R Wiki",
-    "description": "Command bioroid squads in a post-apocalyptic strategy RPG with 9-grid battles, squad building, story stages, and support for PC, Android, and iOS.",
-    "getFreeCodesCTA": "Play Last Origin R on VFUN (PC)",
+    "description": "Command bioroid squads in turn-based 9-grid combat, train your core roster, and follow launch-to-latest updates across PC, Android, and iOS.",
+    "getFreeCodesCTA": "Open Last Origin R on VFUN (PC)",
     "playOnSteamCTA": "Get Last Origin R on Google Play",
     "stats": {
       "stat1": {
@@ -52,740 +52,468 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Last Origin R Gameplay",
+    "description": "Watch squad command, turn-based combat, and 9-grid tactical positioning in Last Origin R global gameplay."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Last Origin R",
+    "titleHighlight": "Homepage Modules",
+    "subtitle": "Jump to the eight core Last Origin R guide modules on this homepage",
     "cards": [
       {
+        "icon": "Ticket",
+        "title": "Last Origin R Codes",
+        "description": "Coupon status, official channels, and launch reward tracking"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "title": "Last Origin R Beginner Guide",
+        "description": "Starter flow, 9-grid basics, and early account setup"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Trophy",
+        "title": "Last Origin R Tier List",
+        "description": "Role-based starter priorities for safe progression"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "RefreshCcw",
+        "title": "Last Origin R Reroll Guide",
+        "description": "Keep-or-reroll rules for launch window accounts"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Users",
+        "title": "Last Origin R Team Builds",
+        "description": "Balanced squads, protection plans, and farming teams"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Swords",
+        "title": "Last Origin R Combat and Formation Guide",
+        "description": "Turn order, position control, and battlefield safety"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "UserRound",
+        "title": "Last Origin R Characters and Units",
+        "description": "Unit comparison, growth focus, and cast highlights"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "CalendarClock",
+        "title": "Last Origin R Events and Update Log",
+        "description": "Launch timeline, new combatants, and live updates"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+    "lastOriginRCodes": {
+      "title": "Last Origin R+ Codes",
+      "displayType": "codeCards",
+      "intro": "Last Origin R+ does not need fake code padding. This section tracks official coupon availability, VFUN reward channels, launch promotions, and expired-code status so players know where real rewards come from.",
+      "items": [
+        {
+          "label": "Active Public Coupons",
+          "code": "No active public coupon listed",
+          "status": "not-listed",
+          "reward": "No public redeem code is shown on the official VFUN, X, or Facebook channels.",
+          "note": "Use this card to prevent fake code claims while keeping the code module useful for searchers."
+        },
+        {
+          "label": "Launch Milestone Rewards",
+          "code": "Pre-registration Rewards",
+          "status": "launch-reward",
+          "reward": "Resource Pack, Genetic Material, Constantia S2 Battle Suit, Cyclops Princess, Bloodstained Eyepatch, Battle Log, Training Manual, Blind Princess, and Special Alternate Core.",
+          "note": "These were announced as global pre-registration milestone rewards."
+        },
+        {
+          "label": "Official Reward Hub",
+          "code": "VFUN Library",
+          "status": "official-channel",
+          "reward": "Game access, platform news, launcher information, and future official reward notices.",
+          "note": "Players should verify coupons through VFUN or official social posts before using any reposted code."
+        },
+        {
+          "label": "Expired Coupons",
+          "code": "No expired public coupon archive",
+          "status": "none-listed",
+          "reward": "No expired official coupon list is published in the checked official channels.",
+          "note": "Keep this card for future expired-code tracking after official coupon campaigns begin."
+        }
+      ]
+    },
+    "lastOriginRBeginnerGuide": {
+      "title": "Last Origin R+ Beginner Guide",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "Last Origin R+ is a strategy RPG about commanding biroids in turn-based grid battles. New players should focus on safe squad setup, early training, and steady story progression before chasing advanced builds.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "step": 1,
+          "title": "Start on your preferred platform",
+          "details": "Last Origin R+ is available through Android, iOS, and the VFUN platform. Mobile players can install from Google Play or the App Store, while PC players should use the official VFUN page.",
+          "priority": "High"
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "step": 2,
+          "title": "Understand the battle loop",
+          "details": "Each fight uses turn-based tactical combat. Your goal is to position units correctly, use each character’s strengths, and clear enemies while keeping the squad safe.",
+          "priority": "High"
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "step": 3,
+          "title": "Use the 9-grid formation system",
+          "details": "The official store description highlights a 9-grid battlefield. Place durable units where they can protect the team and keep fragile damage dealers away from direct pressure.",
+          "priority": "High"
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "step": 4,
+          "title": "Train characters before spreading resources",
+          "details": "Character growth and skill enhancement are core progression systems. Early resources should go into units that help clear campaign stages consistently.",
+          "priority": "High"
+        },
+        {
+          "step": 5,
+          "title": "Push campaign and story stages",
+          "details": "Story stages introduce the ruined-world setting and unlock the main flow of progression. New accounts should clear stable stages first instead of rushing difficult content.",
+          "priority": "Medium"
+        },
+        {
+          "step": 6,
+          "title": "Use launch rewards for account growth",
+          "details": "Pre-registration rewards included Resource Packs, Genetic Material, Battle Log, Training Manual, Blind Princess, Cyclops Princess, and Special Alternate Core. These rewards are useful for early roster setup and growth.",
+          "priority": "Medium"
         }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
+    "lastOriginRTierList": {
+      "title": "Last Origin R+ Tier List",
+      "displayType": "tierGrid",
+      "intro": "Because Last Origin R+ is built around 9-grid combat, early value comes from team function more than single-unit hype. This tier list ranks starter roles and confirmed launch reward targets by how useful they are for safe progression.",
+      "tiers": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "tier": "S",
+          "label": "Core Starter Value",
+          "entries": [
+            {
+              "name": "Durable Frontline Defender",
+              "role": "Defender",
+              "reason": "A safe frontline helps protect attackers and supports in grid battles, making early story clears more stable."
+            },
+            {
+              "name": "Reliable Main Attacker",
+              "role": "Attacker",
+              "reason": "A consistent damage dealer speeds up campaign stages and makes resource farming easier."
+            },
+            {
+              "name": "Blind Princess",
+              "role": "Launch reward target",
+              "reason": "Blind Princess was listed as a 50K pre-registration milestone reward together with Special Alternate Core, making her an important early account target."
+            }
+          ]
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "tier": "A",
+          "label": "Strong Early Support",
+          "entries": [
+            {
+              "name": "Turn-control or AP Support",
+              "role": "Supporter",
+              "reason": "Turn-based combat rewards units that help the squad act safely and keep the main attacker active."
+            },
+            {
+              "name": "Cyclops Princess",
+              "role": "Launch reward target",
+              "reason": "Cyclops Princess was listed as a 30K pre-registration milestone reward, giving new players another valuable roster target."
+            },
+            {
+              "name": "Training Manual and Battle Log Investment",
+              "role": "Growth resource",
+              "reason": "These launch rewards support faster early character growth and should go into your most reliable starter units."
+            }
+          ]
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "tier": "B",
+          "label": "Useful but Team-Dependent",
+          "entries": [
+            {
+              "name": "Single-Target Boss Attacker",
+              "role": "Attacker",
+              "reason": "Useful when a stage needs focused damage, but less flexible than a general campaign carry."
+            },
+            {
+              "name": "Niche Elemental Attacker",
+              "role": "Attacker",
+              "reason": "Element-focused units can be strong when the stage favors them, but they are less universal for first-week progression."
+            },
+            {
+              "name": "Constantia S2 Battle Suit",
+              "role": "Launch reward item",
+              "reason": "This was listed as a 10K milestone reward and is useful as part of the launch reward package, but it is not the main reroll target."
+            }
+          ]
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "tier": "C",
+          "label": "Low Early Priority",
+          "entries": [
+            {
+              "name": "Unbuilt Filler Unit",
+              "role": "Flexible slot",
+              "reason": "A unit with no investment or no clear job should not take priority over your defender, main attacker, and support core."
+            },
+            {
+              "name": "Skin-Only Target",
+              "role": "Cosmetic",
+              "reason": "R+ exclusive skins are valuable for collectors, but they do not replace early squad stability."
+            }
+          ]
         }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "lastOriginRRerollGuide": {
+      "title": "Last Origin R+ Reroll Guide",
+      "displayType": "steps",
+      "intro": "Rerolling in Last Origin R+ should be practical, not endless. A good starter account should secure useful launch rewards, build a balanced 9-grid squad, and invest early resources into units that help clear story stages.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Claim official launch and milestone rewards first",
+          "details": "Start by collecting available official rewards such as Resource Packs, Genetic Material, Battle Log, Training Manual, Blind Princess, Cyclops Princess, and Special Alternate Core.",
+          "keepRule": "Keep accounts that can immediately strengthen a main team."
+        },
+        {
+          "step": 2,
+          "title": "Prioritize team function over rare-name chasing",
+          "details": "Because combat uses grid positioning and turn-based tactics, a strong account needs a defender, a reliable attacker, and useful support more than one isolated unit.",
+          "keepRule": "Keep accounts with a clear frontline plus a safe damage core."
+        },
+        {
+          "step": 3,
+          "title": "Value Blind Princess and Cyclops Princess as launch targets",
+          "details": "Both names appeared in pre-registration milestone rewards, making them important early account targets for players starting during the global launch window.",
+          "keepRule": "Keep accounts that secure these launch reward targets and enough resources to build around them."
+        },
+        {
+          "step": 4,
+          "title": "Spend early growth resources carefully",
+          "details": "Training Manual, Battle Log, Genetic Material, and Resource Packs should support your best campaign-clearing units first.",
+          "keepRule": "Keep accounts where resources can build one stable team instead of spreading across many units."
+        },
+        {
+          "step": 5,
+          "title": "Do a light reroll only",
+          "details": "Rerolling is useful if the account misses key launch rewards or starts with a weak team shape. Once you have a stable defender-attacker-support core, progression is more valuable than restarting repeatedly.",
+          "keepRule": "Stop rerolling when your account can clear early story stages safely."
+        }
+      ]
+    },
+    "lastOriginRTeamBuilds": {
+      "title": "Last Origin R+ Team Builds",
+      "displayType": "cardList",
+      "intro": "Use this section to plan practical teams around role balance instead of raw power only. Start with a protected damage core, add a durable front line, then improve support and skill growth as stages become harder.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
+          "title": "Balanced Starter Squad",
+          "tag": "Best First Setup",
+          "description": "Use one main damage dealer, one durable front unit, and support or utility units around them. This fits the game focus on commanding a squad, arranging units across a 9-grid battlefield, and maximizing each unit's strengths.",
+          "bullets": [
+            "Put durable units in the cells most likely to take hits.",
+            "Keep the main damage dealer away from exposed positions.",
+            "Train the units you actually keep in the active lineup."
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
+          "title": "Protected Damage Core",
+          "tag": "Damage Plan",
+          "description": "Build around the unit that clears enemies most reliably, then use formation to keep that unit safe. Skill enhancement matters because character training and skill growth are core progression systems.",
+          "bullets": [
+            "Upgrade the main carry before spreading resources too thin.",
+            "Place support near the damage core when the stage pattern allows it.",
+            "Change the grid setup when enemies threaten the back line."
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
+          "title": "Frontline Safety Build",
+          "tag": "Survival Plan",
+          "description": "Use durable units in exposed cells so fragile allies can keep acting. This is useful for players stuck in campaign or event stages where careful positioning matters more than simple auto-battle power.",
+          "bullets": [
+            "Use the front row to absorb pressure.",
+            "Avoid leaving important units isolated.",
+            "Recheck formation after every new stage type."
           ]
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
+          "title": "Repeat Farming Team",
+          "tag": "Stable Clears",
+          "description": "For farming, prioritize consistency over risky burst damage. A safer team that clears the same stage repeatedly is more valuable than a stronger-looking team that fails when turn order or enemy targeting changes.",
+          "bullets": [
+            "Use a lineup that survives bad targeting.",
+            "Keep skill upgrades focused on the repeat-clear team.",
+            "Replace weak links only after the current stage is stable."
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "lastOriginRCombatFormationGuide": {
+      "title": "Last Origin R+ Combat and Formation Guide",
+      "displayType": "steps",
+      "intro": "This guide explains how to think during battle: read the grid, protect the carry, control exposed cells, and time skills around turn order. It is made for new players who want a clear combat plan before pushing harder campaign or event stages.",
+      "steps": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "step": 1,
+          "title": "Read the stage grid first",
+          "description": "Battles use dynamic grid stages, so the first job is to check where enemies can pressure your squad. Do not treat every stage as the same formation puzzle.",
+          "tip": "Move or rebuild the squad layout when enemy attacks reach your protected cells."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "step": 2,
+          "title": "Place durable units in danger cells",
+          "description": "The game emphasizes keeping allies safe. Put durable front units where attacks are most likely to land, then place fragile units behind or away from pressure.",
+          "tip": "A good formation prevents damage before healing or recovery is needed."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "step": 3,
+          "title": "Protect the main damage dealer",
+          "description": "A squad should maximize each unit's strengths across the 9-grid battlefield. Damage units usually give more value when they survive long enough to act every round.",
+          "tip": "If your best attacker dies early, the formation is wrong even if the unit is strong."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "step": 4,
+          "title": "Use skills with turn order in mind",
+          "description": "Last Origin R+ uses an individual turn system, so skill timing matters. Set up buffs, protection, or control before committing your main damage action.",
+          "tip": "Do not spend key skills before the unit that benefits from them can act."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "step": 5,
+          "title": "Upgrade formation and skills together",
+          "description": "Character training and skill enhancement are both part of progression. A strong unit still needs the right cell, and a good formation still needs upgraded skills to keep up with harder fights.",
+          "tip": "When a stage fails, check both placement and skill investment before replacing the whole team."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "lastOriginRCharactersAndUnits": {
+      "title": "Last Origin R+ Characters and Units",
+      "displayType": "table",
+      "intro": "Last Origin R+ is character-driven, but the safest early approach is to compare units by role, formation fit, skill value, and current update relevance. This module highlights character data from official store pages and launch coverage.",
+      "headers": {
+        "category": "Category",
+        "confirmedData": "Confirmed Data",
+        "playerUse": "Player Use"
+      },
+      "rows": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "category": "Combatants and Biroids",
+          "confirmedData": "Last Origin R+ is a post-apocalyptic strategy RPG where players fight alongside biroids and command their own squad.",
+          "playerUse": "Use this as the base description for unit list, combatant guide, and character overview searches."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "category": "Character Growth",
+          "confirmedData": "The store pages describe training characters, enhancing skills, and assembling an ultimate lineup.",
+          "playerUse": "Prioritize units that fit your active squad and keep their skill upgrades focused."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "category": "Formation Value",
+          "confirmedData": "Units are arranged across a 9-grid battlefield to maximize each unit's strengths.",
+          "playerUse": "Compare units by where they can safely stand, what they protect, and how they support the main damage plan."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "category": "Voice Cast",
+          "confirmedData": "Confirmed cast names include Yui Horie, Aya Suzaki, Emiri Kato, Yuu Serizawa, Osamu Hiyama, Reina Ueda, Kana Asumi, Manami Numakura, Yumi Hara, Lansbury Arthur, Aimi Tanaka, Chinatsu Akasaki, Mimu Kubota, Noriko Shitaya, Madoka Yonezawa, Himika Akaneya, and Sayuri Hara.",
+          "playerUse": "Use this row for voice actor, character profile, and presentation-focused searches."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "category": "R+ Exclusive Skin Example",
+          "confirmedData": "Launch coverage announced 10 exclusive R+ service skins, including a R+ remake of the New Teacher Leprechaun skin for T-3 Leprechaun.",
+          "playerUse": "Separate R+ exclusive cosmetics from normal character growth and standard Last Origin skin references."
+        },
+        {
+          "category": "Live Update Additions",
+          "confirmedData": "Recent store update notes list new combatants, new special skins, new event stories, permanent event stories, multi-language support, and new event items.",
+          "playerUse": "Keep character pages fresh by connecting new units and skins to the latest version update."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+    "lastOriginREventsAndUpdateLog": {
+      "title": "Last Origin R+ Events and Update Log",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "intro": "Use this update log for returning players who want to know what changed recently. It focuses on official store notes, VALOFE/VFUN service links, official social posts, and launch coverage.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "date": "May 21, 2026",
+          "update": "Global Service Launch",
+          "details": "Last Origin R+ launched globally as a version designed for global users.",
+          "playerImpact": "New players can start from the global service and follow launch rewards, account setup, and early progression events."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "date": "Launch Window",
+          "update": "Commemorative Promotions and Double EXP Event",
+          "details": "Launch coverage reports commemorative promotions, a double experience event, and progression packages prepared for early content.",
+          "playerImpact": "Good timing for new accounts to push early stages, train characters, and build a first stable squad."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "date": "Version 1.3.7",
+          "update": "New Event Stories and Permanent Event Stories",
+          "details": "The latest store update notes list new event stories and permanent event stories added.",
+          "playerImpact": "Returning players should check story content, event access, and available rewards."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "date": "Version 1.3.7",
+          "update": "New Combatants, Special Skins, and Event Items",
+          "details": "The latest store update notes list new combatants, new special skins, and new event items.",
+          "playerImpact": "Use this update for character pages, skin pages, event item guides, and farming priority content."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "date": "Global Launch",
+          "update": "Multi-language Support",
+          "details": "Launch and store update coverage describe multi-language support for the global service.",
+          "playerImpact": "Helpful for players choosing the correct region, client, and language setting."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "date": "Global Launch",
+          "update": "10 R+ Exclusive Service Skins",
+          "details": "Launch coverage announced 10 exclusive R+ service skins, including a R+ version of New Teacher Leprechaun for T-3 Leprechaun.",
+          "playerImpact": "Skin collectors should track R+ exclusive skins separately from standard Last Origin content."
         }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
-    "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "title": "Last Origin R",
+    "titleHighlight": "FAQ",
+    "subtitle": "Key platform, progression, and update answers for Last Origin R players",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "Is Last Origin R singleplayer?",
+        "answer": "Last Origin R is built around single-account squad progression with tactical turn-based combat and story advancement."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Where can I play Last Origin R?",
+        "answer": "Last Origin R is available on VFUN for PC and through Google Play and the App Store for mobile players."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "How should beginners start in Last Origin R?",
+        "answer": "New players should stabilize one defender-attacker-support core, use safe 9-grid placement, and focus upgrades on the active clear team."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Does Last Origin R need rerolling?",
+        "answer": "Last Origin R rerolling should stay light: keep accounts that secure launch rewards and can clear early stages with a stable team core."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How often does Last Origin R receive updates?",
+        "answer": "Last Origin R global updates include new combatants, skins, event stories, and event items, so checking the update log is useful for returning players."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Where should I verify Last Origin R code announcements?",
+        "answer": "Use official Last Origin R channels such as VFUN Library and the official social accounts before trusting reposted code claims."
       }
     ]
   },
   "cta": {
     "title": "Ready to Command Last Origin R Squads?",
-    "description": "Join the official Last Origin R Discord and jump into the global launch on VFUN, Google Play, or the App Store.",
+    "description": "Join the Last Origin R community and continue your progression with official channels, updates, and launch-era resources.",
     "joinCommunity": "Join Last Origin R Discord",
-    "joinGame": "Play Last Origin R on VFUN"
+    "joinGame": "Open Last Origin R on VFUN"
   },
   "footer": {
     "title": "Last Origin R Wiki",
-    "description": "Your fan-made Last Origin R resource hub for squad builds, tactical guides, reroll routes, and update tracking.",
+    "description": "Fan-made Last Origin R resource hub for code status, beginner setup, tier priorities, team builds, and event updates.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
@@ -797,15 +525,19 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Last Origin R Wiki. Not affiliated with the publishers or developers of Last Origin R.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "copyright": "© 2026 Last Origin R Wiki. Not affiliated with VALOFE, SmartJoy, or the Last Origin R publishers/developers.",
+    "disclaimer": "Unofficial fan-made resource website.",
+    "appStore": "App Store",
+    "trademarkNote": "Last Origin R names and assets belong to their respective owners.",
+    "platformNote": "Platform links are provided for player convenience.",
+    "updateNote": "Homepage modules are refreshed for global launch and version changes."
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
+      "title": "Last Origin R Guides",
       "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "metaTitle": "Last Origin R Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete Last Origin R guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
       "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
@@ -822,10 +554,10 @@
       "all": "All Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
+      "title": "Last Origin R Crafting",
       "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
+      "metaTitle": "Last Origin R Crafting - Apotheosis System & Recipes",
+      "metaDescription": "Master Last Origin R Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
       "categoryLabel": "CRAFTING SYSTEM",
       "whatIs": "What is Crafting?",
       "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
@@ -842,10 +574,10 @@
       "all": "All Crafting Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
+      "title": "Last Origin R Items",
       "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
+      "metaTitle": "Last Origin R Items - Tools, Weapons & Gear Guide",
+      "metaDescription": "Complete item database for Last Origin R including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
       "categoryLabel": "ITEMS & EQUIPMENT",
       "whatIs": "What are Items?",
       "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
@@ -862,10 +594,10 @@
       "all": "All Items"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
+      "title": "Last Origin R Biomes",
       "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
+      "metaTitle": "Last Origin R Biomes - World Regions & Exploration",
+      "metaDescription": "Explore Last Origin R biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
       "categoryLabel": "WORLD REGIONS",
       "whatIs": "What are Biomes?",
       "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
@@ -882,10 +614,10 @@
       "all": "All Biomes"
     },
     "building": {
-      "title": "Lucid Blocks Building",
+      "title": "Last Origin R Building",
       "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
+      "metaTitle": "Last Origin R Building - Qualia & Base Construction",
+      "metaDescription": "Master Last Origin R building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
       "categoryLabel": "BUILDING & BASES",
       "whatIs": "What is Building?",
       "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
@@ -902,10 +634,10 @@
       "all": "All Building Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
+      "title": "Last Origin R Support",
       "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
+      "metaTitle": "Last Origin R Support - Technical Help & Fixes",
+      "metaDescription": "Get technical support for Last Origin R including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
       "categoryLabel": "TECHNICAL SUPPORT",
       "whatIs": "What is Support?",
       "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
