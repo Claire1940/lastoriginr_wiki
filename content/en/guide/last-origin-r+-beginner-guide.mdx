@@ -1,0 +1,180 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "last origin r+ beginner guide: Starter Strategy & Reroll Tips",
+  description: "Master the last origin r+ beginner guide with our walkthrough on 9-grid combat, bioroid squad building, launch rewards, and essential reroll strategies.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1a202c/00bcd4?text=Starter+Strategy+Guide",
+  date: "2026-05-26",
+  author: "last origin r Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **last origin r+ beginner guide**: Focus on the 9-grid formation and resource management for steady early progression.
+- **Combat System**: Utilize individual turn-based tactics and grid positioning to protect your damage dealers.
+- **Launch Rewards**: Claim milestone gifts including Blind Princess and Cyclops Princess to jumpstart your roster.
+- **Reroll Strategy**: Prioritize a balanced team of a defender, an attacker, and support rather than chasing single units.
+- **Platforms**: Play across Android, iOS, and PC via the VFUN or Pmang platforms for cross-play convenience.
+</Callout>
+
+<Section icon={Map} title="Getting Started with Last Origin R+">
+
+The **last origin r+ beginner guide** begins with choosing your operational platform and understanding the post-apocalyptic setting. Launched globally on May 21, 2026, this tactical RPG puts you in command of Bioroids—artificial heroines designed for combat in a world reclaimed by nature and machines. Your primary goal is to assemble a squad capable of navigating the dynamic 9-grid battlefield while managing resources like Genetic Material and Training Manuals.
+
+| Platform | Access Method | Features |
+| :--- | :--- | :--- |
+| **Android** | Google Play Store | Mobile portability/Touch controls |
+| **iOS** | Apple App Store | Optimized for iPhone/iPad |
+| **PC** | VFUN / Pmang | Large screen/Stable performance |
+| **Global** | Official Website | Multi-language support (EN/JA/KO/TH) |
+
+<Callout type="tip" title="Platform Tip">
+If you are playing on PC, use the official VFUN launcher for the most stable experience. You can sync your progress across mobile devices by linking your account to a VFUN or social media profile early in the tutorial.
+</Callout>
+
+<Steps>
+  <Step num="1" title="Initial Installation">
+    Download the client from your preferred store. Ensure you have at least 4GB of free space for the initial asset download.
+  </Step>
+  <Step num="2" title="Tutorial Completion">
+    Follow the guided missions to learn basic movement and skill usage. Do not skip these, as they reward you with basic resources.
+  </Step>
+  <Step num="3" title="Account Linking">
+    Navigate to the settings menu and bind your guest account to prevent data loss during updates or platform switching.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Swords} title="Mastering 9-Grid Combat and Tactics">
+
+Combat in Last Origin R+ is defined by the 9-grid battlefield. Unlike traditional turn-based RPGs where positioning is secondary, here it determines your survival. The grid is divided into Front, Middle, and Back rows. Units have specific attack ranges and area-of-effect (AoE) patterns that make placement the most critical part of your strategy.
+
+| Unit Role | Primary Position | Main Objective |
+| :--- | :--- | :--- |
+| **Defender** | Front Row | Absorb damage/Protect allies |
+| **Attacker** | Middle/Back Row | Deal high damage/Eliminate threats |
+| **Supporter** | Back Row | Buff allies/Control turn order |
+| **Tactician** | Flexible | Debuff enemies/Manipulate the grid |
+
+<Callout type="success" title="Formation Bonus">
+Always check unit passive skills. Many Bioroids provide buffs to adjacent cells. Placing a Supporter directly behind a Defender can significantly increase the team's overall durability.
+</Callout>
+
+The turn system is individual, meaning units act based on their Action Points (AP). High-speed units can often act twice before a slower enemy takes a single turn. Managing your AP is essential for timing defensive skills before an enemy boss unleashes a powerful AoE attack.
+
+| Mechanic | Impact on Battle | Strategic Advice |
+| :--- | :--- | :--- |
+| **AP (Action Points)** | Determines turn order | Use speed buffs to act first |
+| **Grid Buffs** | Increases stats based on position | Align units to overlap buff zones |
+| **Skill Range** | Limits which enemies you can hit | Move units to reach backline snipers |
+| **Elemental Weakness** | Multiplies damage dealt | Match Bioroid types to enemy vulnerabilities |
+
+</Section>
+
+<Section icon={Sparkles} title="Launch Rewards and Reroll Guide">
+
+For any new player following a **last origin r+ beginner guide**, the first 24 hours are the most important for resource accumulation. The global launch includes several pre-registration milestone rewards that significantly lower the difficulty of the early campaign.
+
+<CardGrid cols={3}>
+  <Card title="Blind Princess">
+    - **Tier**: S-Rank Target
+    - **Role**: High-value Attacker
+    - **Source**: 50K Milestone Reward
+  </Card>
+  <Card title="Cyclops Princess">
+    - **Tier**: A-Rank Support
+    - **Role**: Tactical Utility
+    - **Source**: 30K Milestone Reward
+  </Card>
+  <Card title="Constantia S2">
+    - **Tier**: Cosmetic/Starter
+    - **Role**: Early Game Carry
+    - **Source**: 10K Milestone Reward
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Reroll Warning">
+Rerolling is possible but not strictly necessary due to the generous milestone rewards. If you choose to reroll, aim for a top-tier Defender to complement the free attackers provided at launch.
+</Callout>
+
+| Milestone Reward | Item Type | Best Use Case |
+| :--- | :--- | :--- |
+| **Resource Pack** | Currency | Save for mid-game crafting |
+| **Genetic Material** | Crafting | Use for targeted Bioroid construction |
+| **Training Manual** | Growth | Level up your main Defender immediately |
+| **Special Core** | Enhancement | Save for your first SS-Rank unit |
+
+</Section>
+
+<Section icon={Shield} title="Squad Building and Character Growth">
+
+Building a squad in Last Origin R+ requires a balance between raw power and tactical synergy. A common mistake for beginners is filling a squad with five attackers. This usually leads to a quick defeat in later stages when enemies start targeting fragile units.
+
+<Checklist
+  id="squad-building"
+  title="Squad Building Checklist:"
+  items={[
+    "Include at least one dedicated Defender in the front row",
+    "Ensure your main Attacker has upgraded skills",
+    "Check if your Supporter's range covers the whole team",
+    "Equip relevant gear (Chips/OS) to fill stat gaps",
+    "Verify that your total squad cost fits your current limits"
+  ]}
+/>
+
+<Callout type="info" title="Skill Enhancement">
+Skills are just as important as levels. Use your Battle Logs and Training Manuals to prioritize the active skills of your primary damage dealer. This ensures you can clear farming stages faster, leading to quicker overall account growth.
+</Callout>
+
+| Growth System | Required Material | Priority |
+| :--- | :--- | :--- |
+| **Leveling** | Combat/Training Manuals | High (All Units) |
+| **Skill Up** | Skill Books/Battle Logs | Very High (Main Carry) |
+| **Link/Core** | Duplicate Units/Cores | Medium (Late Game) |
+| **Equipment** | Chips/OS Modules | Medium (Stat Balancing) |
+
+</Section>
+
+<Section icon={Trophy} title="Progression Path and FAQ">
+
+To progress efficiently, focus on clearing the main story stages. This unlocks new features, permanent event stories, and higher-tier resource farming zones. The **last origin r+ beginner guide** recommends pushing the campaign until you hit a "wall," then returning to previous stages to farm experience and materials for your core team.
+
+<Callout type="tip" title="Farming Tip">
+Check the official [VFUN Library](https://vfun.valofe.com/library?service_code=lastorigin-gl) for news on Double EXP events. These are the best times to burn your stored resources and level up your secondary Bioroids for multi-squad missions.
+</Callout>
+
+| Daily Task | Reward | Time Estimate |
+| :--- | :--- | :--- |
+| **Daily Missions** | Gems/Resources | 15 Minutes |
+| **Resource Farming** | Genetic Material | 30 Minutes (Auto) |
+| **Event Stages** | Limited Skins/Units | Varies by Event |
+| **Simulation** | Upgrade Materials | 10 Minutes |
+
+<FAQ items={[
+  {
+    question: "Is Last Origin R+ free to play friendly?",
+    answer: "Yes, the global launch provides several high-tier units like Blind Princess and Cyclops Princess for free, allowing F2P players to clear most story content without spending."
+  },
+  {
+    question: "Can I play the same account on PC and Mobile?",
+    answer: "Yes, by using a VFUN account or linked social login, you can switch between Android, iOS, and PC while maintaining all progress."
+  },
+  {
+    question: "What is the most important unit role for a beginner?",
+    answer: "A strong Defender is essential. Without a unit to soak up damage in the front row, your fragile attackers will be defeated quickly in the 9-grid system."
+  },
+  {
+    question: "Where can I find active codes for Last Origin R+?",
+    answer: "Official codes are usually posted on the Last Origin R+ X (Twitter) account or the VFUN Facebook page during special events or maintenance."
+  }
+]} />
+
+</Section>
