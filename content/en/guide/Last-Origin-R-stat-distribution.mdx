@@ -1,0 +1,182 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Last Origin R Stat Distribution: Optimize Your Bioroids",
+  description: "Learn the optimal stat distribution strategies for Damage Dealers, Evasion Tanks, and Defense Tanks in Last Origin R to maximize your team's potential.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/800080/fff?text=Stat+Distribution+Guide",
+  date: "2026-05-27",
+  author: "last origin r Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Last Origin R stat distribution** is crucial for unit effectiveness.
+- **Damage Dealers (DPS)** prioritize 100% Critical Rate, then ATK.
+- **Evasion Tanks** should max out Evasion for survival.
+- **Defense Tanks** need a balanced split between DEF and HP.
+- Avoid common beginner mistakes like wasting Black Books or Tuna Cans.
+</Callout>
+
+<Section icon={Sparkles} title="Understanding Last Origin R Stat Distribution Basics">
+Proper stat distribution is the cornerstone of building a powerful team in Last Origin R. New players often feel overwhelmed by the various resources and character development rules. However, by adhering to a few core principles, you can efficiently develop your Bioroids and AGS units to tackle any challenge. This guide will break down the essential stat allocation rules for different unit roles.
+
+**Video Highlights:**
+- Basic gameplay overview and core loop.
+- Understanding unit roles: DPS, Evasion Tank, Defense Tank.
+- Importance of stat thresholds for optimal performance.
+
+</Section>
+
+<Section icon={Swords} title="Stat Allocation for Damage Dealers (DPS)">
+Damage dealers are the backbone of your offensive strategy, and their stat distribution is critical for maximizing their output. The primary goal is to ensure they consistently land critical hits and deal significant damage.
+
+<Callout type="tip" title="DPS Stat Priority">
+Always aim for **100% Critical Rate** first for your Damage Dealers, including all passives and equipment chips. Once this threshold is met, allocate **all remaining points into ATK** to maximize their damage per hit.
+</Callout>
+
+Here's a breakdown of key stats for DPS units:
+
+| Stat             | Priority                                   | Description                                                     |
+|------------------|--------------------------------------------|-----------------------------------------------------------------|
+| **Critical Rate**| Highest (to 100%)                          | Ensures critical hits, significantly boosting damage.           |
+| **ATK**          | Second (all remaining points)              | Directly increases the base damage of attacks.                  |
+| Accuracy         | Important (300% threshold for endgame)     | Prevents attacks from missing, especially against high-evasion foes. |
+| Armor Penetration| Important (90% threshold for endgame)      | Reduces enemy defense, allowing more damage to go through.      |
+
+<CardGrid cols={2}>
+  <Card title="T-14 Miho (Early Game DPS)">
+    - **Max ATK** (after 100% Crit)
+    - Equip CRIT/ATK chips
+    - Prioritize Skill 2 in auto combat
+  </Card>
+  <Card title="No.7 Scissors Lise (Mid/Late Game DPS)">
+    - **Max ATK** (after 100% Crit)
+    - Transfer CRIT/ATK chips from Miho
+    - High damage potential
+  </Card>
+</CardGrid>
+
+Remember that reaching specific thresholds for Accuracy and Armor Penetration is also crucial for endgame content to ensure your DPS units remain effective against tougher enemies.
+
+</Section>
+
+<Section icon={Shield} title="Stat Allocation for Tanks: Evasion and Defense">
+Tanks are essential for protecting your damage dealers and controlling the battlefield. There are two main types of tanks, each with distinct stat allocation strategies.
+
+<Callout type="warning" title="Tanking Mistakes">
+Neglecting a tank's primary defensive stat (Evasion for Evasion Tanks, DEF/HP for Defense Tanks) will lead to them being quickly defeated, leaving your DPS vulnerable.
+</Callout>
+
+### Evasion Tanks
+
+Evasion Tanks rely on dodging incoming attacks to survive. Their survivability is directly tied to their Evasion stat.
+
+| Stat      | Priority      | Description                                                |
+|-----------|---------------|------------------------------------------------------------|
+| **Evasion** | Max Out       | Crucial for dodging attacks and remaining on the field.    |
+| HP        | Secondary     | Provides a small buffer if an attack does connect.         |
+| DEF       | Low           | Generally less effective than Evasion for these units.     |
+
+**Example:** P-24 Pinto is an excellent early-game Evasion Tank. Focus all stat points on **Evasion** for her.
+
+### Defense Tanks
+
+Defense Tanks absorb damage through high Defense and Health Pool. They are designed to soak hits and protect the frontline.
+
+| Stat      | Priority      | Description                                                |
+|-----------|---------------|------------------------------------------------------------|
+| **DEF**   | Balanced with HP | Reduces incoming physical damage.                          |
+| **HP**    | Balanced with DEF | Increases the total health pool, allowing more hits to be taken. |
+| Evasion   | Low           | Not their primary defensive mechanism.                     |
+
+**Example:** AS-12 Steel Draco is a reliable Physical Defense Tank. Allocate points between **DEF and HP** to create a balanced, durable frontline.
+
+</Section>
+
+<Section icon={Target} title="Early Game Stat Allocation Steps for New Players">
+For new players, understanding where to put your initial stat points can make a significant difference in early progression. Here’s a simplified approach using the recommended Mongoose Team.
+
+<Steps>
+  <Step num="1" title="Identify Unit Roles">
+    First, understand each unit's primary role. For the Mongoose Team:
+    - **T-14 Miho**: Main Damage Dealer
+    - **T-60 Bulgasari**: Secondary Damage Dealer
+    - **AS-12 Steel Draco**: Defense Tank
+    - **P-24 Pinto**: Evasion Tank
+  </Step>
+  <Step num="2" title="Prioritize DPS Crit Rate">
+    For T-14 Miho and T-60 Bulgasari, ensure their Critical Rate reaches 100% with their innate stats and equipped chips. This is paramount for consistent damage.
+  </Step>
+  <Step num="3" title="Allocate DPS ATK">
+    Once 100% Critical Rate is achieved for Miho and Bulgasari, put all remaining stat points into **ATK**. This will maximize their damage output.
+  </Step>
+  <Step num="4" title="Max Evasion for Pinto">
+    For P-24 Pinto, allocate all available stat points into **Evasion**. Her survival depends on dodging attacks.
+  </Step>
+  <Step num="5" title="Balance DEF/HP for Steel Draco">
+    For AS-12 Steel Draco, distribute stat points evenly between **DEF and HP** to create a robust physical tank.
+  </Step>
+</Steps>
+
+<Callout type="info">
+This early-game stat distribution strategy ensures your Mongoose Team is optimized to carry you through the main story and into early endgame content efficiently.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Common Beginner Mistakes in Stat Distribution">
+New players often make mistakes that can hinder their progress. Avoiding these pitfalls is crucial for efficient account building in Last Origin R.
+
+<Callout type="warning" title="Avoid These Stat Distribution Traps">
+- **Ignoring Stat Thresholds:** Failing to reach 100% Crit Rate, 300% Accuracy, or 90% Armor Penetration for DPS units will severely impact their performance, even with high ATK.
+- **Random Allocation:** Blindly distributing points across multiple stats without understanding the unit's role or optimal thresholds is inefficient.
+- **Wasting Black Books:** These valuable items instantly max a unit's level and skills. Save them for late-game meta units like **No.85 Invincible Dragon**. Using them on early-game units like T-14 Miho should only be considered if absolutely necessary for a quick push.
+</Callout>
+
+Here’s a checklist of what to focus on and what to avoid:
+
+<Checklist
+  id="stat-mistakes"
+  title="Stat Distribution Checklist:"
+  items={[
+    "Always check unit role before allocating stats.",
+    "Prioritize Critical Rate to 100% for DPS.",
+    "Max Evasion for Evasion Tanks.",
+    "Balance DEF and HP for Defense Tanks.",
+    "Save rare resources like Gold Cores for top-tier endgame units.",
+    "Avoid spreading points too thin across many stats."
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="FAQ on Last Origin R Stat Distribution">
+Here are some frequently asked questions regarding stat distribution in Last Origin R.
+
+<FAQ items={[
+  {
+    question: "Why is 100% Critical Rate so important for DPS units in Last Origin R?",
+    answer: "Achieving 100% Critical Rate ensures that your damage dealers consistently land critical hits, which significantly boosts their damage output. Without it, their damage can be inconsistent and much lower, making difficult content harder to clear."
+  },
+  {
+    question: "Should I ever put Evasion on a Defense Tank, or Defense on an Evasion Tank?",
+    answer: "Generally, no. It's best to specialize. Evasion Tanks excel by avoiding damage entirely, while Defense Tanks excel by reducing and absorbing it. Spreading points between both often results in a unit that is mediocre at both and effective at neither. Focus on maximizing their primary defensive stat for optimal Last Origin R stat distribution."
+  },
+  {
+    question: "When should I start worrying about Accuracy and Armor Penetration for my DPS?",
+    answer: "While Critical Rate and ATK are primary for early game, Accuracy (aim for 300%) and Armor Penetration (aim for 90%) become critical as you approach mid to late-game content. Tougher enemies will have higher evasion and defense, making these stats essential to ensure your attacks land and deal full damage."
+  },
+  {
+    question: "Are there any units that don't fit these general stat distribution rules?",
+    answer: "While most units follow these general guidelines, some specialized units might have unique mechanics or passive skills that alter their optimal stat distribution. Always check a unit's specific skills and recommended builds, especially for top-tier endgame units, before blindly applying general rules."
+  }
+]} />
+
+</Section>
