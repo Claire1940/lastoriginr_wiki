@@ -1,0 +1,986 @@
+{
+  "en": {
+    "characters": [
+      {
+        "slug": "last-origin-cyclops-princess-build",
+        "file": "last-origin-cyclops-princess-build"
+      },
+      {
+        "slug": "last-origin-eternity-build",
+        "file": "last-origin-eternity-build"
+      },
+      {
+        "slug": "last-origin-r-blind-princess-build",
+        "file": "last-origin-r-blind-princess-build"
+      },
+      {
+        "slug": "last-origin-r-character-list",
+        "file": "last-origin-r-character-list"
+      },
+      {
+        "slug": "last-origin-r-characters",
+        "file": "last-origin-r-characters"
+      },
+      {
+        "slug": "last-origin-r-mighty-r",
+        "file": "last-origin-r-mighty-r"
+      },
+      {
+        "slug": "last-origin-r-rena",
+        "file": "last-origin-r-rena"
+      },
+      {
+        "slug": "last-origin-r-skin",
+        "file": "last-origin-r-skin"
+      },
+      {
+        "slug": "last-origin-r-skins",
+        "file": "last-origin-r-skins"
+      },
+      {
+        "slug": "last-origin-r-unit-list",
+        "file": "last-origin-r-unit-list"
+      },
+      {
+        "slug": "last-origin-r-units",
+        "file": "last-origin-r-units"
+      }
+    ],
+    "download": [
+      {
+        "slug": "Last-Origin-R-plus-ios",
+        "file": "Last-Origin-R-plus-ios"
+      },
+      {
+        "slug": "last-origin-r-pc-client",
+        "file": "last-origin-r+-pc-client"
+      },
+      {
+        "slug": "last-origin-r-android",
+        "file": "last-origin-r-android"
+      },
+      {
+        "slug": "last-origin-r-apk",
+        "file": "last-origin-r-apk"
+      },
+      {
+        "slug": "last-origin-r-dmm",
+        "file": "last-origin-r-dmm"
+      },
+      {
+        "slug": "last-origin-r-download",
+        "file": "last-origin-r-download"
+      },
+      {
+        "slug": "last-origin-r-ios",
+        "file": "last-origin-r-ios"
+      },
+      {
+        "slug": "last-origin-r-pc",
+        "file": "last-origin-r-pc"
+      },
+      {
+        "slug": "last-origin-r-steam",
+        "file": "last-origin-r-steam"
+      },
+      {
+        "slug": "last-origin-r-version",
+        "file": "last-origin-r-version"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Last-Origin-R-age-rating",
+        "file": "Last-Origin-R-age-rating"
+      },
+      {
+        "slug": "Last-Origin-R-builds",
+        "file": "Last-Origin-R-builds"
+      },
+      {
+        "slug": "Last-Origin-R-stat-distribution",
+        "file": "Last-Origin-R-stat-distribution"
+      },
+      {
+        "slug": "last-origin-meta",
+        "file": "last-origin-meta"
+      },
+      {
+        "slug": "last-origin-r-beginner-guide",
+        "file": "last-origin-r+-beginner-guide"
+      },
+      {
+        "slug": "last-origin-r-beginner-guide",
+        "file": "last-origin-r-beginner-guide"
+      },
+      {
+        "slug": "last-origin-r-early-game-guide",
+        "file": "last-origin-r-early-game-guide"
+      },
+      {
+        "slug": "last-origin-r-english-guide",
+        "file": "last-origin-r-english-guide"
+      },
+      {
+        "slug": "last-origin-r-english",
+        "file": "last-origin-r-english"
+      },
+      {
+        "slug": "last-origin-r-farming-guide",
+        "file": "last-origin-r-farming-guide"
+      },
+      {
+        "slug": "last-origin-r-gameplay-guide",
+        "file": "last-origin-r-gameplay-guide"
+      },
+      {
+        "slug": "last-origin-r-global-guide",
+        "file": "last-origin-r-global-guide"
+      },
+      {
+        "slug": "last-origin-r-how-to-play",
+        "file": "last-origin-r-how-to-play"
+      },
+      {
+        "slug": "last-origin-r-progression-guide",
+        "file": "last-origin-r-progression-guide"
+      },
+      {
+        "slug": "last-origin-upgrade-guide",
+        "file": "last-origin-upgrade-guide"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Last-Origin-R-plus-taiwan",
+        "file": "Last-Origin-R-plus-taiwan"
+      },
+      {
+        "slug": "last-origin-r-global-release-date",
+        "file": "last-origin-r-global-release-date"
+      },
+      {
+        "slug": "last-origin-r-global-release",
+        "file": "last-origin-r-global-release"
+      },
+      {
+        "slug": "last-origin-r-launch-rewards",
+        "file": "last-origin-r-launch-rewards"
+      },
+      {
+        "slug": "last-origin-r-preregistration",
+        "file": "last-origin-r-preregistration"
+      },
+      {
+        "slug": "last-origin-r-release-date",
+        "file": "last-origin-r-release-date"
+      }
+    ],
+    "systems": [
+      {
+        "slug": "Last-Origin-R-resource-exploration",
+        "file": "Last-Origin-R-resource-exploration"
+      },
+      {
+        "slug": "last-origin-base-guide",
+        "file": "last-origin-base-guide"
+      },
+      {
+        "slug": "last-origin-gear",
+        "file": "last-origin-gear"
+      },
+      {
+        "slug": "last-origin-medium-type",
+        "file": "last-origin-medium-type"
+      },
+      {
+        "slug": "last-origin-mongoose-team",
+        "file": "last-origin-mongoose-team"
+      },
+      {
+        "slug": "last-origin-r-reroll",
+        "file": "last-origin-r+-reroll"
+      },
+      {
+        "slug": "last-origin-r-combat",
+        "file": "last-origin-r-combat"
+      },
+      {
+        "slug": "last-origin-r-equipment",
+        "file": "last-origin-r-equipment"
+      },
+      {
+        "slug": "last-origin-r-formation",
+        "file": "last-origin-r-formation"
+      },
+      {
+        "slug": "last-origin-r-gacha",
+        "file": "last-origin-r-gacha"
+      },
+      {
+        "slug": "last-origin-r-l2d-viewer",
+        "file": "last-origin-r-l2d-viewer"
+      },
+      {
+        "slug": "last-origin-r-medium-types",
+        "file": "last-origin-r-medium-types"
+      },
+      {
+        "slug": "last-origin-r-research",
+        "file": "last-origin-r-research"
+      },
+      {
+        "slug": "last-origin-r-viewer",
+        "file": "last-origin-r-viewer"
+      },
+      {
+        "slug": "last-origin-team-comps",
+        "file": "last-origin-team-comps"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "last-origin-r-tier-list",
+        "file": "last-origin-r+-tier-list"
+      },
+      {
+        "slug": "last-origin-r-best-characters",
+        "file": "last-origin-r-best-characters"
+      },
+      {
+        "slug": "last-origin-r-best-team",
+        "file": "last-origin-r-best-team"
+      },
+      {
+        "slug": "last-origin-r-character-tier-list",
+        "file": "last-origin-r-character-tier-list"
+      },
+      {
+        "slug": "last-origin-r-reroll-tier-list",
+        "file": "last-origin-r-reroll-tier-list"
+      },
+      {
+        "slug": "last-origin-r-strongest-units",
+        "file": "last-origin-r-strongest-units"
+      },
+      {
+        "slug": "last-origin-r-tier-list",
+        "file": "last-origin-r-tier-list"
+      }
+    ]
+  },
+  "ja": {
+    "characters": [
+      {
+        "slug": "last-origin-cyclops-princess-build",
+        "file": "last-origin-cyclops-princess-build"
+      },
+      {
+        "slug": "last-origin-eternity-build",
+        "file": "last-origin-eternity-build"
+      },
+      {
+        "slug": "last-origin-r-blind-princess-build",
+        "file": "last-origin-r-blind-princess-build"
+      },
+      {
+        "slug": "last-origin-r-character-list",
+        "file": "last-origin-r-character-list"
+      },
+      {
+        "slug": "last-origin-r-characters",
+        "file": "last-origin-r-characters"
+      },
+      {
+        "slug": "last-origin-r-mighty-r",
+        "file": "last-origin-r-mighty-r"
+      },
+      {
+        "slug": "last-origin-r-rena",
+        "file": "last-origin-r-rena"
+      },
+      {
+        "slug": "last-origin-r-skin",
+        "file": "last-origin-r-skin"
+      },
+      {
+        "slug": "last-origin-r-skins",
+        "file": "last-origin-r-skins"
+      },
+      {
+        "slug": "last-origin-r-unit-list",
+        "file": "last-origin-r-unit-list"
+      },
+      {
+        "slug": "last-origin-r-units",
+        "file": "last-origin-r-units"
+      }
+    ],
+    "download": [
+      {
+        "slug": "last-origin-r-pc-client",
+        "file": "last-origin-r+-pc-client"
+      },
+      {
+        "slug": "last-origin-r-android",
+        "file": "last-origin-r-android"
+      },
+      {
+        "slug": "last-origin-r-apk",
+        "file": "last-origin-r-apk"
+      },
+      {
+        "slug": "last-origin-r-dmm",
+        "file": "last-origin-r-dmm"
+      },
+      {
+        "slug": "last-origin-r-download",
+        "file": "last-origin-r-download"
+      },
+      {
+        "slug": "last-origin-r-ios",
+        "file": "last-origin-r-ios"
+      },
+      {
+        "slug": "last-origin-r-pc",
+        "file": "last-origin-r-pc"
+      },
+      {
+        "slug": "last-origin-r-steam",
+        "file": "last-origin-r-steam"
+      },
+      {
+        "slug": "last-origin-r-version",
+        "file": "last-origin-r-version"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "last-origin-meta",
+        "file": "last-origin-meta"
+      },
+      {
+        "slug": "last-origin-r-beginner-guide",
+        "file": "last-origin-r-beginner-guide"
+      },
+      {
+        "slug": "last-origin-r-early-game-guide",
+        "file": "last-origin-r-early-game-guide"
+      },
+      {
+        "slug": "last-origin-r-english-guide",
+        "file": "last-origin-r-english-guide"
+      },
+      {
+        "slug": "last-origin-r-english",
+        "file": "last-origin-r-english"
+      },
+      {
+        "slug": "last-origin-r-farming-guide",
+        "file": "last-origin-r-farming-guide"
+      },
+      {
+        "slug": "last-origin-r-gameplay-guide",
+        "file": "last-origin-r-gameplay-guide"
+      },
+      {
+        "slug": "last-origin-r-global-guide",
+        "file": "last-origin-r-global-guide"
+      },
+      {
+        "slug": "last-origin-r-how-to-play",
+        "file": "last-origin-r-how-to-play"
+      },
+      {
+        "slug": "last-origin-r-progression-guide",
+        "file": "last-origin-r-progression-guide"
+      },
+      {
+        "slug": "last-origin-upgrade-guide",
+        "file": "last-origin-upgrade-guide"
+      }
+    ],
+    "release": [
+      {
+        "slug": "last-origin-r-global-release-date",
+        "file": "last-origin-r-global-release-date"
+      },
+      {
+        "slug": "last-origin-r-global-release",
+        "file": "last-origin-r-global-release"
+      },
+      {
+        "slug": "last-origin-r-launch-rewards",
+        "file": "last-origin-r-launch-rewards"
+      },
+      {
+        "slug": "last-origin-r-preregistration",
+        "file": "last-origin-r-preregistration"
+      },
+      {
+        "slug": "last-origin-r-release-date",
+        "file": "last-origin-r-release-date"
+      }
+    ],
+    "systems": [
+      {
+        "slug": "last-origin-base-guide",
+        "file": "last-origin-base-guide"
+      },
+      {
+        "slug": "last-origin-gear",
+        "file": "last-origin-gear"
+      },
+      {
+        "slug": "last-origin-medium-type",
+        "file": "last-origin-medium-type"
+      },
+      {
+        "slug": "last-origin-mongoose-team",
+        "file": "last-origin-mongoose-team"
+      },
+      {
+        "slug": "last-origin-r-reroll",
+        "file": "last-origin-r+-reroll"
+      },
+      {
+        "slug": "last-origin-r-combat",
+        "file": "last-origin-r-combat"
+      },
+      {
+        "slug": "last-origin-r-equipment",
+        "file": "last-origin-r-equipment"
+      },
+      {
+        "slug": "last-origin-r-formation",
+        "file": "last-origin-r-formation"
+      },
+      {
+        "slug": "last-origin-r-gacha",
+        "file": "last-origin-r-gacha"
+      },
+      {
+        "slug": "last-origin-r-l2d-viewer",
+        "file": "last-origin-r-l2d-viewer"
+      },
+      {
+        "slug": "last-origin-r-medium-types",
+        "file": "last-origin-r-medium-types"
+      },
+      {
+        "slug": "last-origin-r-research",
+        "file": "last-origin-r-research"
+      },
+      {
+        "slug": "last-origin-r-viewer",
+        "file": "last-origin-r-viewer"
+      },
+      {
+        "slug": "last-origin-team-comps",
+        "file": "last-origin-team-comps"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "last-origin-r-best-characters",
+        "file": "last-origin-r-best-characters"
+      },
+      {
+        "slug": "last-origin-r-best-team",
+        "file": "last-origin-r-best-team"
+      },
+      {
+        "slug": "last-origin-r-character-tier-list",
+        "file": "last-origin-r-character-tier-list"
+      },
+      {
+        "slug": "last-origin-r-reroll-tier-list",
+        "file": "last-origin-r-reroll-tier-list"
+      },
+      {
+        "slug": "last-origin-r-strongest-units",
+        "file": "last-origin-r-strongest-units"
+      },
+      {
+        "slug": "last-origin-r-tier-list",
+        "file": "last-origin-r-tier-list"
+      }
+    ]
+  },
+  "ko": {
+    "characters": [
+      {
+        "slug": "last-origin-cyclops-princess-build",
+        "file": "last-origin-cyclops-princess-build"
+      },
+      {
+        "slug": "last-origin-eternity-build",
+        "file": "last-origin-eternity-build"
+      },
+      {
+        "slug": "last-origin-r-blind-princess-build",
+        "file": "last-origin-r-blind-princess-build"
+      },
+      {
+        "slug": "last-origin-r-character-list",
+        "file": "last-origin-r-character-list"
+      },
+      {
+        "slug": "last-origin-r-characters",
+        "file": "last-origin-r-characters"
+      },
+      {
+        "slug": "last-origin-r-mighty-r",
+        "file": "last-origin-r-mighty-r"
+      },
+      {
+        "slug": "last-origin-r-rena",
+        "file": "last-origin-r-rena"
+      },
+      {
+        "slug": "last-origin-r-skin",
+        "file": "last-origin-r-skin"
+      },
+      {
+        "slug": "last-origin-r-skins",
+        "file": "last-origin-r-skins"
+      },
+      {
+        "slug": "last-origin-r-unit-list",
+        "file": "last-origin-r-unit-list"
+      },
+      {
+        "slug": "last-origin-r-units",
+        "file": "last-origin-r-units"
+      }
+    ],
+    "download": [
+      {
+        "slug": "last-origin-r-pc-client",
+        "file": "last-origin-r+-pc-client"
+      },
+      {
+        "slug": "last-origin-r-android",
+        "file": "last-origin-r-android"
+      },
+      {
+        "slug": "last-origin-r-apk",
+        "file": "last-origin-r-apk"
+      },
+      {
+        "slug": "last-origin-r-dmm",
+        "file": "last-origin-r-dmm"
+      },
+      {
+        "slug": "last-origin-r-download",
+        "file": "last-origin-r-download"
+      },
+      {
+        "slug": "last-origin-r-ios",
+        "file": "last-origin-r-ios"
+      },
+      {
+        "slug": "last-origin-r-pc",
+        "file": "last-origin-r-pc"
+      },
+      {
+        "slug": "last-origin-r-steam",
+        "file": "last-origin-r-steam"
+      },
+      {
+        "slug": "last-origin-r-version",
+        "file": "last-origin-r-version"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "last-origin-meta",
+        "file": "last-origin-meta"
+      },
+      {
+        "slug": "last-origin-r-beginner-guide",
+        "file": "last-origin-r-beginner-guide"
+      },
+      {
+        "slug": "last-origin-r-early-game-guide",
+        "file": "last-origin-r-early-game-guide"
+      },
+      {
+        "slug": "last-origin-r-english-guide",
+        "file": "last-origin-r-english-guide"
+      },
+      {
+        "slug": "last-origin-r-english",
+        "file": "last-origin-r-english"
+      },
+      {
+        "slug": "last-origin-r-farming-guide",
+        "file": "last-origin-r-farming-guide"
+      },
+      {
+        "slug": "last-origin-r-gameplay-guide",
+        "file": "last-origin-r-gameplay-guide"
+      },
+      {
+        "slug": "last-origin-r-global-guide",
+        "file": "last-origin-r-global-guide"
+      },
+      {
+        "slug": "last-origin-r-how-to-play",
+        "file": "last-origin-r-how-to-play"
+      },
+      {
+        "slug": "last-origin-r-progression-guide",
+        "file": "last-origin-r-progression-guide"
+      },
+      {
+        "slug": "last-origin-upgrade-guide",
+        "file": "last-origin-upgrade-guide"
+      }
+    ],
+    "release": [
+      {
+        "slug": "last-origin-r-global-release-date",
+        "file": "last-origin-r-global-release-date"
+      },
+      {
+        "slug": "last-origin-r-global-release",
+        "file": "last-origin-r-global-release"
+      },
+      {
+        "slug": "last-origin-r-launch-rewards",
+        "file": "last-origin-r-launch-rewards"
+      },
+      {
+        "slug": "last-origin-r-preregistration",
+        "file": "last-origin-r-preregistration"
+      },
+      {
+        "slug": "last-origin-r-release-date",
+        "file": "last-origin-r-release-date"
+      }
+    ],
+    "systems": [
+      {
+        "slug": "last-origin-base-guide",
+        "file": "last-origin-base-guide"
+      },
+      {
+        "slug": "last-origin-gear",
+        "file": "last-origin-gear"
+      },
+      {
+        "slug": "last-origin-medium-type",
+        "file": "last-origin-medium-type"
+      },
+      {
+        "slug": "last-origin-mongoose-team",
+        "file": "last-origin-mongoose-team"
+      },
+      {
+        "slug": "last-origin-r-reroll",
+        "file": "last-origin-r+-reroll"
+      },
+      {
+        "slug": "last-origin-r-combat",
+        "file": "last-origin-r-combat"
+      },
+      {
+        "slug": "last-origin-r-equipment",
+        "file": "last-origin-r-equipment"
+      },
+      {
+        "slug": "last-origin-r-formation",
+        "file": "last-origin-r-formation"
+      },
+      {
+        "slug": "last-origin-r-gacha",
+        "file": "last-origin-r-gacha"
+      },
+      {
+        "slug": "last-origin-r-l2d-viewer",
+        "file": "last-origin-r-l2d-viewer"
+      },
+      {
+        "slug": "last-origin-r-medium-types",
+        "file": "last-origin-r-medium-types"
+      },
+      {
+        "slug": "last-origin-r-research",
+        "file": "last-origin-r-research"
+      },
+      {
+        "slug": "last-origin-r-viewer",
+        "file": "last-origin-r-viewer"
+      },
+      {
+        "slug": "last-origin-team-comps",
+        "file": "last-origin-team-comps"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "last-origin-r-best-characters",
+        "file": "last-origin-r-best-characters"
+      },
+      {
+        "slug": "last-origin-r-best-team",
+        "file": "last-origin-r-best-team"
+      },
+      {
+        "slug": "last-origin-r-character-tier-list",
+        "file": "last-origin-r-character-tier-list"
+      },
+      {
+        "slug": "last-origin-r-reroll-tier-list",
+        "file": "last-origin-r-reroll-tier-list"
+      },
+      {
+        "slug": "last-origin-r-strongest-units",
+        "file": "last-origin-r-strongest-units"
+      },
+      {
+        "slug": "last-origin-r-tier-list",
+        "file": "last-origin-r-tier-list"
+      }
+    ]
+  },
+  "th": {
+    "characters": [
+      {
+        "slug": "last-origin-cyclops-princess-build",
+        "file": "last-origin-cyclops-princess-build"
+      },
+      {
+        "slug": "last-origin-eternity-build",
+        "file": "last-origin-eternity-build"
+      },
+      {
+        "slug": "last-origin-r-blind-princess-build",
+        "file": "last-origin-r-blind-princess-build"
+      },
+      {
+        "slug": "last-origin-r-character-list",
+        "file": "last-origin-r-character-list"
+      },
+      {
+        "slug": "last-origin-r-characters",
+        "file": "last-origin-r-characters"
+      },
+      {
+        "slug": "last-origin-r-mighty-r",
+        "file": "last-origin-r-mighty-r"
+      },
+      {
+        "slug": "last-origin-r-rena",
+        "file": "last-origin-r-rena"
+      },
+      {
+        "slug": "last-origin-r-skin",
+        "file": "last-origin-r-skin"
+      },
+      {
+        "slug": "last-origin-r-skins",
+        "file": "last-origin-r-skins"
+      },
+      {
+        "slug": "last-origin-r-unit-list",
+        "file": "last-origin-r-unit-list"
+      },
+      {
+        "slug": "last-origin-r-units",
+        "file": "last-origin-r-units"
+      }
+    ],
+    "download": [
+      {
+        "slug": "last-origin-r-pc-client",
+        "file": "last-origin-r+-pc-client"
+      },
+      {
+        "slug": "last-origin-r-android",
+        "file": "last-origin-r-android"
+      },
+      {
+        "slug": "last-origin-r-apk",
+        "file": "last-origin-r-apk"
+      },
+      {
+        "slug": "last-origin-r-dmm",
+        "file": "last-origin-r-dmm"
+      },
+      {
+        "slug": "last-origin-r-download",
+        "file": "last-origin-r-download"
+      },
+      {
+        "slug": "last-origin-r-ios",
+        "file": "last-origin-r-ios"
+      },
+      {
+        "slug": "last-origin-r-pc",
+        "file": "last-origin-r-pc"
+      },
+      {
+        "slug": "last-origin-r-steam",
+        "file": "last-origin-r-steam"
+      },
+      {
+        "slug": "last-origin-r-version",
+        "file": "last-origin-r-version"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "last-origin-meta",
+        "file": "last-origin-meta"
+      },
+      {
+        "slug": "last-origin-r-beginner-guide",
+        "file": "last-origin-r-beginner-guide"
+      },
+      {
+        "slug": "last-origin-r-early-game-guide",
+        "file": "last-origin-r-early-game-guide"
+      },
+      {
+        "slug": "last-origin-r-english-guide",
+        "file": "last-origin-r-english-guide"
+      },
+      {
+        "slug": "last-origin-r-english",
+        "file": "last-origin-r-english"
+      },
+      {
+        "slug": "last-origin-r-farming-guide",
+        "file": "last-origin-r-farming-guide"
+      },
+      {
+        "slug": "last-origin-r-gameplay-guide",
+        "file": "last-origin-r-gameplay-guide"
+      },
+      {
+        "slug": "last-origin-r-global-guide",
+        "file": "last-origin-r-global-guide"
+      },
+      {
+        "slug": "last-origin-r-how-to-play",
+        "file": "last-origin-r-how-to-play"
+      },
+      {
+        "slug": "last-origin-r-progression-guide",
+        "file": "last-origin-r-progression-guide"
+      },
+      {
+        "slug": "last-origin-upgrade-guide",
+        "file": "last-origin-upgrade-guide"
+      }
+    ],
+    "release": [
+      {
+        "slug": "last-origin-r-global-release-date",
+        "file": "last-origin-r-global-release-date"
+      },
+      {
+        "slug": "last-origin-r-global-release",
+        "file": "last-origin-r-global-release"
+      },
+      {
+        "slug": "last-origin-r-launch-rewards",
+        "file": "last-origin-r-launch-rewards"
+      },
+      {
+        "slug": "last-origin-r-preregistration",
+        "file": "last-origin-r-preregistration"
+      },
+      {
+        "slug": "last-origin-r-release-date",
+        "file": "last-origin-r-release-date"
+      }
+    ],
+    "systems": [
+      {
+        "slug": "last-origin-base-guide",
+        "file": "last-origin-base-guide"
+      },
+      {
+        "slug": "last-origin-gear",
+        "file": "last-origin-gear"
+      },
+      {
+        "slug": "last-origin-medium-type",
+        "file": "last-origin-medium-type"
+      },
+      {
+        "slug": "last-origin-mongoose-team",
+        "file": "last-origin-mongoose-team"
+      },
+      {
+        "slug": "last-origin-r-reroll",
+        "file": "last-origin-r+-reroll"
+      },
+      {
+        "slug": "last-origin-r-combat",
+        "file": "last-origin-r-combat"
+      },
+      {
+        "slug": "last-origin-r-equipment",
+        "file": "last-origin-r-equipment"
+      },
+      {
+        "slug": "last-origin-r-formation",
+        "file": "last-origin-r-formation"
+      },
+      {
+        "slug": "last-origin-r-gacha",
+        "file": "last-origin-r-gacha"
+      },
+      {
+        "slug": "last-origin-r-l2d-viewer",
+        "file": "last-origin-r-l2d-viewer"
+      },
+      {
+        "slug": "last-origin-r-medium-types",
+        "file": "last-origin-r-medium-types"
+      },
+      {
+        "slug": "last-origin-r-research",
+        "file": "last-origin-r-research"
+      },
+      {
+        "slug": "last-origin-r-viewer",
+        "file": "last-origin-r-viewer"
+      },
+      {
+        "slug": "last-origin-team-comps",
+        "file": "last-origin-team-comps"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "last-origin-r-best-characters",
+        "file": "last-origin-r-best-characters"
+      },
+      {
+        "slug": "last-origin-r-best-team",
+        "file": "last-origin-r-best-team"
+      },
+      {
+        "slug": "last-origin-r-character-tier-list",
+        "file": "last-origin-r-character-tier-list"
+      },
+      {
+        "slug": "last-origin-r-reroll-tier-list",
+        "file": "last-origin-r-reroll-tier-list"
+      },
+      {
+        "slug": "last-origin-r-strongest-units",
+        "file": "last-origin-r-strongest-units"
+      },
+      {
+        "slug": "last-origin-r-tier-list",
+        "file": "last-origin-r-tier-list"
+      }
+    ]
+  }
+}
